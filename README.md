@@ -2,21 +2,30 @@
 
 ![Cychrus caraboides](img/Cychrus_caraboides.jpg)
 
+------------------------------------------------------------------------------------------
+
+## Context
+
 This repository holds the supplementary data for the manuscript:
 
-**Pentinsaari, M.**, **Vos, R.A.**, and **Mutanen, M.** In prep. Algorithmic single-locus species delimitation: 
-effects of sampling effort, variation and non-monophyly in four methods and 1870 species of beetles.
-*Molecular Ecology Resources*
+**Pentinsaari, M.**, **Vos, R.A.**, and **Mutanen, M.** In prep. Algorithmic single-locus 
+species delimitation: effects of sampling effort, variation and non-monophyly in four 
+methods and 1870 species of beetles. *Molecular Ecology Resources*
+
+------------------------------------------------------------------------------------------
+
+## Contents
 
 Unless indicated otherwise, all files are made available under the [CC0 license](LICENSE).
 Contents:
 
-- **[Datasorter.py](src/Datasorter.py)** - Python script to find clusters in taxonomic data.
-  Courtesy of Juhani Hopkins. This script is licensed under the [GPL](src/gpl-3.0.txt).
-- **[GMYC.R](src/GMYC.R)** - R script for running GMYC analyses on trees generated with BEAST.
-  Courtesy of Mikko Pentinsaari.
-- **[Table S1](data/Table_S1.tsv)** - BOLD and GenBank accession data and geographic origin of 
-  the analyzed specimens. Tab-separated table, UNIX line breaks.
+- **[Datasorter.py](src/Datasorter.py)** - Python script to find clusters in taxonomic 
+  data. Courtesy of Juhani Hopkins. This script is licensed under the 
+  [GPL](src/gpl-3.0.txt).
+- **[GMYC.R](src/GMYC.R)** - R script for running GMYC analyses on trees generated with 
+  BEAST. Courtesy of Mikko Pentinsaari.
+- **[Table S1](data/Table_S1.tsv)** - BOLD and GenBank accession data and geographic 
+  origin of the analyzed specimens. Tab-separated table, UNIX line breaks.
 - **[Table S2](data/Table_S2.tsv)** - Summary of sampling, variation, monophyly and OTU 
   delimitation outcome for each species. Tab-separated table, UNIX line breaks.
 - **Maximum clade credibility trees** - Input for GMYC species delimitation, in 
@@ -42,3 +51,12 @@ Contents:
   - [Dytiscidae](data/PTP/Dytiscidae_RAxML_bestTree.dnd)
   - [Staphylinidae-loput](data/PTP/Staphylinidae-loput_RAxML_bestTree.dnd)
   - [Tachyporinae-Aleocharinae](data/PTP/Tachyporinae-Aleocharinae_RAxML_bestTree.dnd)
+
+------------------------------------------------------------------------------------------
+
+## About the image
+
+*Cychrus caraboides* is a European endemic ground beetle. This image, created by
+[Udo Schmidt](https://www.flickr.com/people/30703260@N08), is reproduced here under the
+[Creative Commons Attribution-Share Alike 2.0 Generic](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+solely for illustrative purposes.
