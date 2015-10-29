@@ -11,7 +11,7 @@ Contents:
 
 - **[Datasorter.py](src/Datasorter.py)** - Python script to find clusters in taxonomic data.
   Courtesy of Juhani Hopkins. This script is licensed under the [GPL](src/gpl-3.0.txt).
-- **[GMYC.R](src/GMYC.R)**. R script for running GMYC analyses on trees generated with BEAST.
+- **[GMYC.R](src/GMYC.R)** - R script for running GMYC analyses on trees generated with BEAST.
   Courtesy of Mikko Pentinsaari.
 - **[Table S1](data/Table_S1.tsv)** - BOLD and GenBank accession data and geographic origin of 
   the analyzed specimens. Tab-separated table, UNIX line breaks.
