@@ -52,7 +52,8 @@ Contents:
 
 ## About the image
 
-*Cychrus caraboides* is a European endemic ground beetle. This image, created by
+*Cychrus caraboides* is a European endemic ground beetle. This 
+[image](img/Cychrus_caraboides.jpg), created by 
 [Udo Schmidt](https://www.flickr.com/people/30703260@N08), is reproduced here under the
 [Creative Commons Attribution-Share Alike 2.0 Generic](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
 solely for illustrative purposes.
