@@ -1,16 +1,12 @@
-# Supplementary data repository
-
-![Cychrus caraboides](img/Cychrus_caraboides.jpg)
-
-------------------------------------------------------------------------------------------
-
-## Context
+# Supplementary data
 
 This repository holds the supplementary data for the manuscript:
 
 **Pentinsaari, M.**, **Vos, R.A.**, and **Mutanen, M.** In prep. Algorithmic single-locus 
 species delimitation: effects of sampling effort, variation and non-monophyly in four 
 methods and 1870 species of beetles. *Molecular Ecology Resources*
+
+![Cychrus caraboides](img/Cychrus_caraboides.jpg)
 
 ------------------------------------------------------------------------------------------
 
