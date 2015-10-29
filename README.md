@@ -1,5 +1,7 @@
 # Supplementary data repository
 
+![Cychrus caraboides](img/Cychrus_caraboides.jpg)
+
 This repository holds the supplementary data for the manuscript:
 
 **Pentinsaari, M.**, **Vos, R.A.**, and **Mutanen, M.** In prep. Algorithmic single-locus species delimitation: 
