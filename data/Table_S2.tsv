@@ -1,0 +1,1871 @@
+Species	Individuals sampled	Haplotypes observed	Monophyly assessment	Tanglees (for non-monophyletic species)	Maximum intraspecific divergence	Deepest intraspecific split (K2P)	Distance to nearest neighbor (K2P)	ABGD outcome	BIN outcome	GMYC outcome	PTP outcome
+Abdera affinis	4	3	monophyletic		0.46		13.27	match	match	match	match
+Abdera triguttata	1	1	monophyletic		N/A		16.46	match	match	match	match
+Abraeus perpusillus	1	1	monophyletic		N/A		15.14	match	match	match	match
+Acalyptus carpini	1	1	monophyletic		N/A		12.81	match	match	match	match
+Acalyptus sericeus	1	1	monophyletic		N/A		12.81	match	match	match	match
+Acanthocinus aedilis	5	4	monophyletic		1.54	1.23	12.73	match	match	split	match
+Acanthocinus griseus	2	2	monophyletic		1.08		12.73	match	match	match	match
+Acanthoscelides obtectus	3	3	monophyletic		1.08		17.63	match	match	match	match
+Acidota crenata	5	4	monophyletic		0.48		14.77	match	match	match	match
+Acidota quadrata	2	2	monophyletic		0.46		11.67	match	match	match	match
+Acilius canaliculatus	4	1	monophyletic		0.00		9.42	match	match	match	match
+Acilius sulcatus	2	1	monophyletic		0.00		9.42	match	match	match	match
+Aclypea opaca	1	1	monophyletic		N/A		9.96	match	match	match	match
+Acmaeops pratensis	3	3	monophyletic		0.61		10.09	match	match	match	match
+Acmaeops septentrionis	3	3	monophyletic		1.83	1.69	10.09	match	split	split	match
+Acritus nigricornis	1	1	monophyletic		N/A		15.91	match	match	match	match
+Acrolocha pliginskii	4	1	monophyletic		0.00		7.34	match	match	match	match
+Acrolocha sulcula	1	1	monophyletic		N/A		7.34	match	match	match	match
+Acrostiba borealis	1	1	monophyletic		N/A		9.61	match	match	match	match
+Acrotona amplicollis	1	1	monophyletic		N/A		8.04	match	match	match	match
+Acrotona aterrima	4	1	monophyletic		0.00		12.74	match	match	match	match
+Acrotona convergens	1	1	monophyletic		N/A		14.40	match	match	match	match
+Acrotona fungi	2	2	monophyletic		3.60	3.60	14.39	match	split	split	split
+Acrotona obfuscata	1	1	monophyletic		N/A		12.02	match	match	match	match
+Acrotona orbata	3	2	monophyletic		0.30		8.04	match	match	match	match
+Acrotona parvula	3	1	monophyletic		0.00		11.48	match	match	match	match
+Acrotona pilosicollis	1	1	monophyletic		N/A		13.28	match	match	match	match
+Acrotona pseudotenera	2	1	monophyletic		0.00		13.54	match	match	match	match
+Acrotona pygmaea	1	1	monophyletic		N/A		12.02	match	match	match	match
+Acrotona sylvicola	2	2	monophyletic		2.01	2.01	15.96	match	match	match	split
+Acrotrichis cognata	1	1	monophyletic		N/A		19.51	match	match	match	match
+Acrotrichis intermedia	1	1	monophyletic		N/A		19.51	match	match	match	match
+Acrotrichis nr. sitkaensis	1	1	monophyletic		N/A		16.65	match	match	match	match
+Acrulia inflata	1	1	monophyletic		N/A		14.22	match	match	match	match
+Actenicerus sjaelandicus	7	2	monophyletic		0.15		17.81	match	match	match	match
+Acupalpus flavicollis	1	1	monophyletic		N/A		7.68	match	match	match	match
+Acupalpus meridianus	1	1	monophyletic		N/A		7.35	match	match	match	match
+Acupalpus parvulus	6	3	monophyletic		0.48		7.35	match	match	match	match
+Acylophorus wagenschieberi	1	1	monophyletic		N/A		17.62	match	match	match	match
+Adalia bipunctata	3	3	monophyletic		0.46		11.34	match	match	match	match
+Adalia conglomerata	2	1	monophyletic		0.00		12.75	match	match	match	match
+Adalia decempunctata	3	1	monophyletic		0.00		11.34	match	match	match	match
+Adrastus pallens	4	2	monophyletic		0.15		19.04	match	match	match	match
+Aegialia arenaria	3	2	monophyletic		0.15		14.37	match	match	match	match
+Aegialia sabuleti	2	2	monophyletic		0.31		14.37	match	match	match	match
+Agabus affinis	5	1	monophyletic		0.00		8.75	match	match	match	match
+Agabus arcticus	1	1	monophyletic		N/A		4.10	match	match	match	match
+Agabus bipustulatus	6	2	monophyletic		0.49		9.10	match	match	match	match
+Agabus congener	3	3	polyphyletic	"Agabus lapponicus,Agabus thomsoni"	1.23		0.00	merge	merge	merge	merge
+Agabus fuscipennis	1	1	monophyletic		N/A		7.77	match	match	match	match
+Agabus guttatus	4	3	monophyletic		0.30		10.45	match	match	match	match
+Agabus infuscatus	2	2	monophyletic		0.46		9.63	match	match	match	match
+Agabus labiatus	2	2	monophyletic		0.15		10.82	match	match	match	match
+Agabus lapponicus	5	3	paraphyletic	Agabus congener	1.07		0.00	merge	merge	merge	merge
+Agabus paludosus	1	1	monophyletic		N/A		10.29	match	match	match	match
+Agabus serricornis	2	2	monophyletic		0.46		9.94	match	match	match	match
+Agabus sturmii	2	1	monophyletic		0.00		4.10	match	match	match	match
+Agabus thomsoni	3	2	paraphyletic	Agabus congener	0.46		0.00	merge	merge	merge	merge
+Agabus uliginosus	2	2	monophyletic		0.33		9.10	match	match	match	match
+Agabus undulatus	2	2	monophyletic		0.30		9.94	match	match	match	match
+Agabus unguicularis	2	2	monophyletic		0.15		8.75	match	match	match	match
+Agapanthia villosoviridescens	4	2	monophyletic		1.07		19.72	match	match	match	match
+Agathidium arcticum	1	1	monophyletic		N/A		13.30	match	match	match	match
+Agathidium seminulum	1	1	monophyletic		N/A		12.56	match	match	match	match
+Agelastica alni	4	1	monophyletic		0.00		15.88	match	match	match	match
+Agonum consimile	3	2	monophyletic		0.15		7.38	match	match	match	match
+Agonum emarginatum	6	4	monophyletic		1.08		2.69	match	match	split	match
+Agonum ericeti	3	3	paraphyletic	Agonum sexpunctatum	0.30		0.00	merge	merge	merge	merge
+Agonum fuliginosum	8	6	monophyletic		0.46		8.20	match	match	match	match
+Agonum gracile	1	1	monophyletic		N/A		4.26	match	match	match	match
+Agonum hypocrita	3	2	monophyletic		0.15		2.17	match	match	match	match
+Agonum marginatum	4	2	monophyletic		0.46		5.07	match	match	match	match
+Agonum muelleri	2	2	monophyletic		0.97		5.07	match	match	match	match
+Agonum piceum	3	3	monophyletic		0.31		4.26	match	match	match	match
+Agonum sexpunctatum	5	1	monophyletic		0.00		0.00	merge	merge	merge	merge
+Agonum thoreyi	6	4	monophyletic		0.46		7.38	match	match	match	match
+Agonum viduum	7	2	monophyletic		0.16		2.17	match	match	match	match
+Agrilus angustulus	3	2	monophyletic		0.76		16.86	match	match	match	match
+Agrilus betuleti	2	2	monophyletic		0.15		20.83	match	match	match	match
+Agrilus mendax	1	1	monophyletic		N/A		17.43	match	match	match	match
+Agrilus pratensis	1	1	monophyletic		N/A		19.26	match	match	match	match
+Agrilus subauratus	1	1	monophyletic		N/A		21.78	match	match	match	match
+Agrilus sulcicollis	4	2	monophyletic		0.46		16.86	match	match	match	match
+Agrilus suvorovi	1	1	monophyletic		N/A		3.40	match	match	match	match
+Agrilus viridis	44	10	paraphyletic	Agrilus suvorovi	6.90	4.83	3.40	split	split	split	split
+Agriotes lineatus	6	4	monophyletic		0.92		4.43	match	match	match	match
+Agriotes obscurus	3	2	monophyletic		0.77		4.43	match	match	match	match
+Agriotes sputator	2	1	monophyletic		0.00		12.81	match	match	match	match
+Agrypnus murinus	5	2	monophyletic		0.15		17.54	match	match	match	match
+Ahasverus advena	3	2	monophyletic		0.30		21.37	match	match	match	match
+Aleochara bipustulata	4	2	monophyletic		0.30		10.43	match	match	match	match
+Aleochara brevipennis	5	2	monophyletic		0.15		10.60	match	match	match	match
+Aleochara brundini	6	2	monophyletic		0.61		10.43	match	match	match	match
+Aleochara curtula	3	2	monophyletic		0.46		11.04	match	match	match	match
+Aleochara grisea	3	2	monophyletic		0.15		11.20	match	match	match	match
+Aleochara inconspicua	5	2	monophyletic		0.30		12.01	match	match	match	match
+Aleochara intricata	1	1	monophyletic		N/A		13.64	match	match	match	match
+Aleochara lanuginosa	4	4	monophyletic		1.07		11.47	match	match	match	match
+Aleochara moerens	6	4	monophyletic		0.61		11.67	match	match	match	match
+Aleochara sparsa	1	1	monophyletic		N/A		11.20	match	match	match	match
+Alianta incana	5	2	monophyletic		0.15		12.13	match	match	match	match
+Aloconota gregaria	7	3	monophyletic		1.11		12.01	match	match	match	match
+Aloconota insecta	2	1	monophyletic		0.00		10.96	match	match	match	match
+Alosterna tabacicolor	5	4	monophyletic		0.61		17.06	match	match	split	match
+Alphitophagus bifasciatus	2	1	monophyletic		0.00		12.37	match	match	match	match
+Altica brevicollis	3	1	monophyletic		0.00		0.46	merge	merge	mixture	merge
+Altica carinthiaca	2	1	monophyletic		0.00		4.78	match	match	match	match
+Altica chamaenerii	7	3	paraphyletic	"Altica brevicollis,Altica longicollis"	1.94	1.36	0.46	merge	merge	mixture	merge
+Altica engstromi	8	5	monophyletic		2.17	0.50	1.72	merge	merge	match	merge
+Altica longicollis	1	1	monophyletic		N/A		0.84	merge	merge	mixture	merge
+Altica opacifrons	3	1	monophyletic		0.00		11.25	match	match	match	match
+Altica palustris	5	1	monophyletic		0.00		4.78	match	match	match	match
+Amalus scortillum	1	1	monophyletic		N/A		17.61	match	match	match	match
+Amara aenea	5	3	monophyletic		0.49		4.19	match	match	match	match
+Amara alpina	3	2	paraphyletic	Amara torrida	1.07		0.00	merge	merge	merge	merge
+Amara apricaria	2	1	monophyletic		0.00		10.72	match	match	match	match
+Amara aulica	5	1	monophyletic		0.00		7.68	match	match	match	match
+Amara bifrons	3	2	monophyletic		0.77		11.26	match	match	match	match
+Amara brunnea	4	2	monophyletic		0.15		11.14	match	match	match	match
+Amara communis	4	2	monophyletic		0.30		4.06	match	match	match	match
+Amara consularis	3	1	monophyletic		0.00		9.11	match	match	match	match
+Amara convexiuscula	1	1	monophyletic		N/A		3.12	match	match	match	match
+Amara cursitans	1	1	monophyletic		N/A		7.38	match	match	match	match
+Amara equestris	2	1	monophyletic		0.00		8.04	match	match	match	match
+Amara erratica	3	3	monophyletic		0.46		4.87	match	match	match	match
+Amara eurynota	1	1	monophyletic		N/A		5.86	match	match	match	match
+Amara famelica	3	3	monophyletic		0.77		4.55	match	match	match	match
+Amara familiaris	4	1	monophyletic		0.00		0.15	merge	merge	merge	merge
+Amara fulva	3	2	monophyletic		0.77		9.77	match	match	match	match
+Amara gebleri	2	2	monophyletic		0.16		7.68	match	match	match	match
+Amara hyperborea	1	1	monophyletic		N/A		6.88	match	match	match	match
+Amara ingenua	3	1	monophyletic		0.00		6.87	match	match	match	match
+Amara lucida	1	1	monophyletic		N/A		0.15	merge	merge	merge	merge
+Amara lunicollis	4	3	monophyletic		0.30		4.06	match	match	match	match
+Amara majuscula	3	1	monophyletic		0.00		10.72	match	match	match	match
+Amara municipalis	4	1	monophyletic		0.00		6.87	match	match	match	match
+Amara ovata	6	1	monophyletic		0.00		0.92	merge	merge	merge	merge
+Amara plebeja	5	3	monophyletic		0.48		5.85	match	match	match	match
+Amara quenseli	4	3	monophyletic		0.31		8.04	match	match	match	match
+Amara similata	2	1	monophyletic		0.00		0.92	merge	merge	merge	merge
+Amara tibialis	3	1	monophyletic		0.00		5.85	match	match	match	match
+Amara torrida	4	2	paraphyletic	Amara alpina	0.92		0.00	merge	merge	merge	merge
+Amischa analis	5	4	paraphyletic	Amischa bifoveolata	0.46		0.00	merge	merge	merge	merge
+Amischa bifoveolata	3	1	monophyletic		0.00		0.00	merge	merge	merge	merge
+Amischa decipiens	1	1	monophyletic		N/A		11.49	match	match	match	match
+Ampedus balteatus	8	3	monophyletic		0.76		8.81	match	match	match	match
+Ampedus nigrinus	1	1	monophyletic		N/A		11.28	match	match	match	match
+Ampedus pomonae	1	1	monophyletic		N/A		1.85	merge	match	match	merge
+Ampedus pomorum	3	1	monophyletic		0.00		10.39	match	match	match	match
+Ampedus sanguinolentus	3	2	monophyletic		0.48		1.85	merge	match	match	merge
+Ampedus suecicus	1	1	monophyletic		N/A		6.08	match	match	match	match
+Ampedus tristis	4	4	monophyletic		1.23		6.08	match	match	match	match
+Amphicyllis globus	3	2	monophyletic		0.15		13.00	match	match	match	match
+Amphimallon solstitiale	6	2	monophyletic		0.17		18.35	match	match	match	match
+Anacaena globulus	3	1	monophyletic		0.00		14.00	match	match	match	match
+Anacaena lutescens	6	4	monophyletic		0.61		15.30	match	match	match	match
+Anaglyptus mysticus	2	1	monophyletic		0.00		16.19	match	match	match	match
+Anaspis arctica	6	3	monophyletic		0.46		14.16	match	match	match	match
+Anaspis bohemica	2	2	monophyletic		4.91	4.91	15.58	match	split	split	split
+Anaspis brunnipes	1	1	monophyletic		N/A		15.50	match	match	match	match
+Anaspis flava	3	1	monophyletic		0.00		13.11	match	match	match	match
+Anaspis frontalis	4	4	monophyletic		0.76		14.59	match	match	match	match
+Anaspis rufilabris	6	4	monophyletic		0.77		13.11	match	match	match	match
+Anaspis thoracica	3	1	monophyletic		0.00		14.16	match	match	match	match
+Anatis ocellata	3	2	monophyletic		1.07		12.24	match	match	match	match
+Anaulacaspis nigra	3	1	monophyletic		0.00		13.30	match	match	match	match
+Anchomenus dorsalis	3	2	monophyletic		0.15		6.44	match	match	match	match
+Anidorus nigrinus	2	1	monophyletic		0.00		15.76	match	match	match	match
+Anisodactylus binotatus	3	2	monophyletic		0.16		6.67	match	match	match	match
+Anisosticta novemdecimpunctata	7	6	monophyletic		1.54	0.92	13.45	match	match	match	match
+Anisotoma axillaris	3	2	monophyletic		0.61		4.10	match	match	match	match
+Anisotoma castanea	1	1	monophyletic		N/A		11.51	match	match	match	match
+Anisotoma glabra	4	2	monophyletic		0.15		11.51	match	match	match	match
+Anisotoma humeralis	3	3	monophyletic		0.46		4.10	match	match	match	match
+Anisotoma orbicularis	1	1	monophyletic		N/A		12.56	match	match	match	match
+Anobium punctatum	1	1	monophyletic		N/A		19.13	match	match	match	match
+Anobium rufipes	1	1	monophyletic		N/A		18.97	match	match	match	match
+Anomala dubia	6	3	monophyletic		0.32		15.46	match	match	match	match
+Anomognathus cuspidatus	2	2	monophyletic		10.43	10.43	12.08	split	split	split	split
+Anoplodera maculicornis	3	1	monophyletic		0.00		13.63	match	match	match	match
+Anoplodera reyi	5	3	monophyletic		0.32		11.69	match	match	match	match
+Anoplodera rubra	3	2	monophyletic		2.97	2.97	11.69	match	split	match	split
+Anoplodera sanguinolenta	6	6	monophyletic		0.77		12.62	match	match	match	match
+Anoplodera sexguttata	1	1	monophyletic		N/A		15.67	match	match	match	match
+Anoplus plantaris	3	1	monophyletic		0.00		17.93	match	match	match	match
+Anostirus castaneus	2	2	monophyletic		0.30		16.62	match	match	match	match
+Anotylus clavatus	1	1	monophyletic		N/A		16.07	match	match	match	match
+Anotylus insecatus	1	1	monophyletic		N/A		11.81	match	match	match	match
+Anotylus rugosus	5	3	monophyletic		5.30	4.93	11.81	split	split	split	split
+Anthaxia quadripunctata	5	1	monophyletic		0.00		17.99	match	match	match	match
+Antherophagus pallens	1	1	monophyletic		N/A		19.94	match	match	match	match
+Anthicus antherinus	5	3	monophyletic		0.30		12.39	match	match	match	match
+Anthicus ater	6	2	monophyletic		0.15		13.46	match	match	match	match
+Anthicus flavipes	5	5	monophyletic		1.86	0.61	12.39	match	match	match	match
+Anthicus sellatus	2	1	monophyletic		0.00		13.70	match	match	match	match
+Anthobium atrocephalum	6	2	monophyletic		0.15		11.77	match	match	match	match
+Anthobium unicolor	1	1	monophyletic		N/A		11.77	match	match	match	match
+Anthocomus fasciatus	2	1	monophyletic		0.00		12.39	match	match	match	match
+Anthocomus rufus	3	1	monophyletic		0.00		12.39	match	match	match	match
+Anthonomus conspersus	2	2	monophyletic		0.30		14.67	match	match	match	match
+Anthonomus phyllocola	2	2	monophyletic		0.80		0.16	merge	merge	merge	merge
+Anthonomus pinivorax	3	1	monophyletic		0.00		0.16	merge	merge	merge	merge
+Anthonomus pomorum	4	2	monophyletic		0.61		16.93	match	match	match	match
+Anthonomus rectirostris	1	1	monophyletic		N/A		14.67	match	match	match	match
+Anthonomus rubi	7	6	monophyletic		0.67		17.00	match	match	match	match
+Anthophagus alpinus	4	4	monophyletic		0.30		11.71	match	match	match	match
+Anthophagus angusticollis	1	1	monophyletic		N/A		7.38	match	match	match	match
+Anthophagus caraboides	2	2	monophyletic		1.63	1.63	13.75	match	match	match	split
+Anthophagus omalinus	2	1	monophyletic		0.00		7.38	match	match	match	match
+Anthrenus museorum	4	2	monophyletic		0.15		19.71	match	match	match	match
+Anthrenus scrophulariae	3	2	monophyletic		0.16		17.79	match	match	match	match
+Anthribus nebulosus	2	2	monophyletic		0.15		17.60	match	match	match	match
+Aphidecta obliterata	5	5	monophyletic		1.54	1.23	15.77	match	match	split	match
+Aphodius borealis	7	4	monophyletic		1.70	1.39	14.09	split	match	match	match
+Aphodius brevis	1	1	monophyletic		N/A		14.30	match	match	match	match
+Aphodius conspurcatus	4	3	monophyletic		0.77		13.32	match	match	match	match
+Aphodius contaminatus	3	2	monophyletic		0.30		13.76	match	match	match	match
+Aphodius depressus	2	2	monophyletic		1.86	1.86	15.90	match	match	match	match
+Aphodius distinctus	6	6	monophyletic		1.08		10.95	match	match	match	match
+Aphodius fasciatus	4	3	monophyletic		0.61		14.43	match	match	match	match
+Aphodius fossor	2	2	monophyletic		1.07		13.70	match	match	match	match
+Aphodius lapponum	2	1	monophyletic		0.00		7.77	match	match	match	match
+Aphodius niger	1	1	monophyletic		N/A		8.49	match	match	match	match
+Aphodius paykulli	1	1	monophyletic		N/A		13.32	match	match	match	match
+Aphodius piceus	2	1	monophyletic		0.00		7.77	match	match	match	match
+Aphodius plagiatus	3	3	monophyletic		0.46		8.49	match	match	match	match
+Aphodius prodromus	2	2	paraphyletic	Aphodius punctatosulcatus	9.75	9.75	4.25	mixture	split	split	split
+Aphodius punctatosulcatus	2	2	monophyletic		0.15		4.25	mixture	match	match	match
+Aphodius rufus	6	3	monophyletic		1.07		14.53	match	match	match	match
+Aphodius subterraneus	1	1	monophyletic		N/A		12.04	match	match	match	match
+Aphthona erichsoni	1	1	monophyletic		N/A		17.00	match	match	match	match
+Aphthona lutescens	5	3	monophyletic		2.17	2.01	14.75	split	match	match	split
+Apion apricans	4	3	monophyletic		1.07		9.64	match	match	match	match
+Apion assimile	3	2	monophyletic		0.15		11.74	match	match	match	match
+Apion astragali	1	1	monophyletic		N/A		17.22	match	match	match	match
+Apion cerdo	5	3	monophyletic		0.92		12.57	match	match	match	match
+Apion cruentatum	2	1	monophyletic		0.00		7.36	match	match	match	match
+Apion curtirostre	2	2	monophyletic		0.61		18.76	match	match	match	match
+Apion ervi	3	1	monophyletic		0.00		14.39	match	match	match	match
+Apion facetum	4	2	monophyletic		5.44	5.42	9.53	match	split	split	split
+Apion frumentarium	2	2	monophyletic		0.15		7.36	match	match	match	match
+Apion fulvipes	2	1	monophyletic		0.00		4.59	merge	match	match	match
+Apion gracilipes	1	1	monophyletic		N/A		4.59	merge	match	match	match
+Apion gyllenhalii	2	1	monophyletic		0.00		14.21	match	match	match	match
+Apion hookerorum	3	1	monophyletic		0.00		17.07	match	match	match	match
+Apion loti	4	2	monophyletic		0.61		15.45	match	match	match	match
+Apion marchicum	1	1	monophyletic		N/A		19.74	match	match	match	match
+Apion meliloti	6	4	monophyletic		0.82		15.45	match	match	match	match
+Apion minimum	1	1	monophyletic		N/A		14.42	match	match	match	match
+Apion opeticum	1	1	monophyletic		N/A		12.06	match	match	match	match
+Apion punctigerum	1	1	monophyletic		N/A		9.53	match	match	match	match
+Apion simile	4	3	monophyletic		0.96		16.04	match	match	match	match
+Apion subulatum	3	1	monophyletic		0.00		12.06	match	match	match	match
+Apion tenue	2	1	monophyletic		0.00		14.62	match	match	match	match
+Apion trifolii	2	1	monophyletic		0.00		9.64	match	match	match	match
+Apion urticarium	2	1	monophyletic		0.00		14.48	match	match	match	match
+Apion viciae	5	5	monophyletic		1.96	1.60	14.33	match	split	match	match
+Apion violaceum	3	2	monophyletic		0.16		18.80	match	match	match	match
+Aplocnemus tarsalis	2	2	monophyletic		0.15		13.63	match	match	match	match
+Aploderus caelatus	2	2	monophyletic		3.13	3.13	14.76	match	split	split	split
+Aplotarsus incanus	4	2	monophyletic		0.15		16.07	match	match	match	match
+Apocatops nigrita	2	1	monophyletic		0.00		15.39	match	match	match	match
+Archarius crux	3	1	monophyletic		0.00		13.53	match	match	match	match
+Archarius pyrrhoceras	2	2	monophyletic		0.30		15.77	match	match	match	match
+Archarius salicivorus	2	2	monophyletic		0.32		13.53	match	match	match	match
+Arhopalus rusticus	5	5	monophyletic		3.02	2.01	17.84	match	match	split	split
+Aromia moschata	7	5	monophyletic		0.92		16.84	match	match	match	match
+Arpedium quadrum	3	3	monophyletic		1.39		10.77	match	match	match	match
+Asaphidion pallipes	4	3	monophyletic		0.30		11.09	match	match	match	match
+Asemum striatum	5	3	monophyletic		0.61		14.56	match	match	match	match
+Aspidiphorus orbiculatus	4	4	monophyletic		0.64		20.26	match	match	match	match
+Astenus gracilis	4	4	monophyletic		1.07		13.21	match	match	match	match
+Astenus pulchellus	5	2	monophyletic		0.61		13.21	match	match	match	match
+Atheta aeneipennis	6	6	monophyletic		0.92		0.92	merge	merge	merge	merge
+Atheta allocera	3	2	monophyletic		0.15		7.86	match	match	match	match
+Atheta arctica	1	1	monophyletic		N/A		12.45	match	match	match	match
+Atheta atramentaria	5	4	monophyletic		0.30		9.56	match	match	match	match
+Atheta boreella	1	1	monophyletic		N/A		11.04	match	match	match	match
+Atheta britteni	4	4	monophyletic		1.37		13.43	match	match	match	match
+Atheta brunneipennis	2	2	monophyletic		0.15		8.54	match	match	match	match
+Atheta castanoptera	1	1	monophyletic		N/A		8.59	match	match	match	match
+Atheta cauta	3	3	monophyletic		0.30		12.78	match	match	match	match
+Atheta celata	2	2	monophyletic		0.15		13.30	match	match	match	match
+Atheta cinnamoptera	5	4	monophyletic		0.49		11.84	match	match	match	match
+Atheta corvina	1	1	monophyletic		N/A		13.49	match	match	match	match
+Atheta crassicornis	6	5	monophyletic		1.23		6.19	match	match	match	match
+Atheta cribripennis	3	2	monophyletic		0.15		9.40	match	match	match	match
+Atheta dadopora	1	1	monophyletic		N/A		11.47	match	match	match	match
+Atheta deformis	2	1	monophyletic		0.00		12.78	match	match	match	match
+Atheta depressicollis	1	1	monophyletic		N/A		12.21	match	match	match	match
+Atheta diversa	1	1	monophyletic		N/A		4.39	match	match	match	match
+Atheta elongatula	6	5	monophyletic		1.72	1.23	11.86	match	match	match	match
+Atheta euryptera	4	1	monophyletic		0.00		8.87	match	match	match	match
+Atheta excelsa	2	1	monophyletic		0.00		10.46	match	match	match	match
+Atheta fallaciosa	1	1	monophyletic		N/A		13.68	match	match	match	match
+Atheta gagatina	4	3	monophyletic		0.75		13.40	match	match	match	match
+Atheta graminicola	7	3	monophyletic		0.30		8.54	match	match	match	match
+Atheta gyllenhalii	2	2	monophyletic		1.02		12.03	match	match	match	match
+Atheta hygrotopora	3	3	monophyletic		1.39		12.01	match	match	match	match
+Atheta hypnorum	2	2	monophyletic		0.61		2.01	match	match	merge	match
+Atheta incognita	4	2	monophyletic		0.15		2.01	match	match	merge	match
+Atheta intermedia	2	2	monophyletic		0.15		12.10	match	match	match	match
+Atheta ischnocera	2	2	monophyletic		0.61		13.18	match	match	match	match
+Atheta laevana	8	1	monophyletic		0.00		9.39	match	match	match	match
+Atheta lapponica	5	3	paraphyletic	Atheta aeneipennis	0.61		0.92	merge	merge	merge	merge
+Atheta laticollis	4	2	monophyletic		0.15		14.57	match	match	match	match
+Atheta longicornis	1	1	monophyletic		N/A		14.53	match	match	match	match
+Atheta macrocera	4	3	monophyletic		2.80	2.59	14.17	match	split	split	split
+Atheta malleus	5	3	paraphyletic	Atheta volans	0.61		0.30	merge	merge	merge	merge
+Atheta marcida	1	1	monophyletic		N/A		12.51	match	match	match	match
+Atheta melanocera	6	3	monophyletic		0.30		3.93	match	match	match	match
+Atheta munsteri	1	1	monophyletic		N/A		4.42	merge	match	match	match
+Atheta myrmecobia	2	2	monophyletic		3.81	3.81	11.65	match	split	split	split
+Atheta nesslingi	3	3	monophyletic		0.73		9.54	match	match	match	match
+Atheta nigripes	6	4	monophyletic		1.70	1.38	9.40	match	split	match	match
+Atheta palustris	4	4	monophyletic		0.46		10.67	match	match	match	match
+Atheta paracrassicornis	2	2	monophyletic		0.49		6.19	match	match	match	match
+Atheta picipes	2	1	monophyletic		0.00		10.62	match	match	match	match
+Atheta pilicornis	2	2	monophyletic		2.01	2.01	8.43	match	match	match	split
+Atheta pinegensis	2	2	monophyletic		0.15		11.65	match	match	match	match
+Atheta procera	2	1	monophyletic		0.00		11.05	match	match	match	match
+Atheta setigera	4	2	monophyletic		0.15		9.73	match	match	match	match
+Atheta sodalis	5	4	monophyletic		0.92		5.08	match	match	match	match
+Atheta sordidula	1	1	monophyletic		N/A		12.79	match	match	match	match
+Atheta sp.1	1	1	monophyletic		N/A		5.55	match	match	match	match
+Atheta sp.2	1	1	monophyletic		N/A		14.30	match	match	match	match
+Atheta spatuloides	4	3	monophyletic		0.30		12.21	match	match	match	match
+Atheta strandiella	3	1	monophyletic		0.00		6.55	match	match	match	match
+Atheta subtilis	6	2	monophyletic		0.17		10.28	match	match	match	match
+Atheta taxiceroides	1	1	monophyletic		N/A		10.62	match	match	match	match
+Atheta vaga	5	3	monophyletic		0.61		12.59	match	match	match	match
+Atheta vestita	4	2	monophyletic		0.15		11.70	match	match	match	match
+Atheta vilis	2	2	monophyletic		1.23		13.04	match	match	match	match
+Atheta volans	3	1	monophyletic		0.00		0.30	merge	merge	merge	merge
+Atholus duodecimstriatus	3	2	monophyletic		0.15		16.61	match	match	match	match
+Athous haemorrhoidalis	7	2	monophyletic		0.48		15.51	match	match	match	match
+Athous subfuscus	4	2	monophyletic		0.15		14.45	match	match	match	match
+Atomaria apicalis	1	1	monophyletic		N/A		10.70	match	match	match	match
+Atomaria basalis	1	1	monophyletic		N/A		12.85	match	match	match	match
+Atomaria fulvipennis	1	1	monophyletic		N/A		6.08	match	match	match	match
+Atomaria fuscata	4	2	monophyletic		0.15		12.77	match	match	match	match
+Atomaria lewisi	3	2	monophyletic		0.92		11.94	match	match	match	match
+Atomaria nigrirostris	1	1	monophyletic		N/A		14.97	match	match	match	match
+Atomaria nitidula	2	1	monophyletic		0.00		6.08	match	match	match	match
+Atomaria peltata	1	1	monophyletic		N/A		12.85	match	match	match	match
+Atomaria pusilla	1	1	monophyletic		N/A		13.53	match	match	match	match
+Atomaria rubella	5	3	monophyletic		0.92		12.25	match	match	match	match
+Atomaria sp.	1	1	monophyletic		N/A		12.85	match	match	match	match
+Atomaria testacea	1	1	monophyletic		N/A		13.67	match	match	match	match
+Atomaria turgida	2	2	monophyletic		0.46		10.70	match	match	match	match
+Atomaria vespertina	1	1	monophyletic		N/A		14.04	match	match	match	match
+Atomaria wollastoni	3	1	monophyletic		0.00		14.04	match	match	match	match
+Atomaria zetterstedti	2	2	monophyletic		0.15		12.25	match	match	match	match
+Atrecus pilicornis	1	1	monophyletic		N/A		12.78	match	match	match	match
+Attagenus pellio	1	1	monophyletic		N/A		15.50	match	match	match	match
+Attagenus woodroffei	1	1	monophyletic		N/A		16.05	match	match	match	match
+Auleutes epilobii	3	2	monophyletic		0.46		18.37	match	match	match	match
+Autalia longicornis	1	1	monophyletic		N/A		8.90	match	match	match	match
+Autalia puncticollis	3	1	monophyletic		0.00		8.90	match	match	match	match
+Autalia rivularis	2	2	monophyletic		0.31		12.78	match	match	match	match
+Aygules intermedius	1	1	monophyletic		N/A		12.61	match	match	match	match
+Badister bullatus	6	1	monophyletic		0.00		6.40	match	match	match	match
+Badister dilatatus	7	2	monophyletic		0.15		9.77	match	match	match	match
+Badister lacertosus	1	1	monophyletic		N/A		6.40	match	match	match	match
+Baeocrara japonica	1	1	monophyletic		N/A		15.05	match	match	match	match
+Baeocrara variolosa	2	2	monophyletic		0.15		15.05	match	match	match	match
+Bagous glabrirostris	2	1	monophyletic		0.00		21.01	match	match	match	match
+Bagous longitarsis	2	2	monophyletic		0.15		23.06	match	match	match	match
+Baris artemisiae	2	1	monophyletic		0.00		17.98	match	match	match	match
+Barypeithes pellucidus	4	4	monophyletic		10.50	8.18	17.57	split	split	split	split
+Batophila rubi	5	3	monophyletic		3.45	3.29	19.10	split	split	match	split
+Bembidion articulatum	3	2	monophyletic		0.15		11.86	match	match	match	match
+Bembidion assimile	3	3	monophyletic		0.92		7.69	match	match	match	match
+Bembidion biguttatum	2	2	monophyletic		0.31		11.06	match	match	match	match
+Bembidion bipunctatum	5	1	monophyletic		0.00		10.60	match	match	match	match
+Bembidion bruxellense	6	3	monophyletic		0.77		11.01	match	match	match	match
+Bembidion deletum	1	1	monophyletic		N/A		11.30	match	match	match	match
+Bembidion dentellum	3	2	paraphyletic	Bembidion tinctum	1.39		0.77	merge	merge	mixture	merge
+Bembidion difficile	6	3	monophyletic		0.47		10.27	match	match	match	match
+Bembidion doris	4	1	monophyletic		0.00		9.39	match	match	match	match
+Bembidion femoratum	8	6	monophyletic		0.61		9.75	match	match	match	match
+Bembidion gilvipes	4	3	monophyletic		0.51		7.47	match	match	match	match
+Bembidion grapii	1	1	monophyletic		N/A		10.77	match	match	match	match
+Bembidion guttula	6	3	monophyletic		1.38		11.06	match	match	match	split
+Bembidion hastii	3	2	monophyletic		0.61		2.33	match	match	match	match
+Bembidion illigeri	2	1	monophyletic		0.00		10.44	match	match	match	match
+Bembidion lampros	6	1	monophyletic		0.00		9.05	match	match	match	match
+Bembidion lapponicum	1	1	monophyletic		N/A		9.44	match	match	match	match
+Bembidion litorale	3	1	monophyletic		0.00		9.13	match	match	match	match
+Bembidion minimum	3	1	monophyletic		0.00		9.08	match	match	match	match
+Bembidion obliquum	6	2	monophyletic		2.22	1.68	11.95	split	match	split	split
+Bembidion obtusum	4	2	monophyletic		0.30		12.43	match	match	match	match
+Bembidion prasinum	5	2	monophyletic		0.30		10.08	match	match	match	match
+Bembidion properans	3	1	monophyletic		0.00		9.05	match	match	match	match
+Bembidion pygmaeum	3	1	monophyletic		0.00		10.77	match	match	match	match
+Bembidion quadrimaculatum	7	2	monophyletic		0.49		9.08	match	match	match	match
+Bembidion ruficolle	3	1	monophyletic		0.00		10.08	match	match	match	match
+Bembidion saxatile	6	3	monophyletic		0.78		11.60	match	match	match	match
+Bembidion schuppelii	2	1	monophyletic		0.00		7.69	match	match	match	match
+Bembidion tetracolum	3	2	monophyletic		0.32		9.75	match	match	match	match
+Bembidion tinctum	1	1	monophyletic		N/A		0.77	merge	merge	mixture	merge
+Bembidion transparens	4	2	monophyletic		1.14		7.47	match	match	match	match
+Bembidion velox	1	1	monophyletic		N/A		9.13	match	match	match	match
+Bembidion virens	6	2	monophyletic		0.16		2.33	match	match	match	match
+Berosus luridus	5	3	monophyletic		0.30		19.73	match	match	match	match
+Bibloplectus ambiguus	1	1	monophyletic		N/A		16.43	match	match	match	match
+Bibloporus minutus	1	1	monophyletic		N/A		15.31	match	match	match	match
+Bidessus grossepunctatus	2	1	monophyletic		0.00		13.32	match	match	match	match
+Bisnius fimetarius	4	1	monophyletic		0.00		15.97	match	match	match	match
+Bisnius nigriventris	1	1	monophyletic		N/A		18.05	match	match	match	match
+Bisnius puella	3	3	monophyletic		0.77		16.39	match	match	match	match
+Bisnius scoticus	2	2	monophyletic		0.18		23.13	match	match	match	match
+Bisnius subuliformis	2	2	monophyletic		0.15		17.26	match	match	match	match
+Bitoma crenata	3	3	monophyletic		1.38		13.26	match	match	match	match
+Bledius arcticus	4	4	monophyletic		1.48	1.45	10.49	match	match	split	match
+Bledius erraticus	3	3	monophyletic		0.32		15.20	match	match	match	match
+Bledius gallicus	5	3	monophyletic		0.30		15.20	match	match	match	match
+Bledius opacus	4	1	monophyletic		0.00		10.49	match	match	match	match
+Bledius poppiusi	7	2	monophyletic		0.30		16.30	match	match	match	match
+Bledius spectabilis	1	1	monophyletic		N/A		3.13	merge	match	match	match
+Bledius subterraneus	3	1	monophyletic		0.00		14.42	match	match	match	match
+Bledius talpa	7	4	monophyletic		0.46		15.77	match	match	match	match
+Bledius tricornis	1	1	monophyletic		N/A		3.13	merge	match	match	match
+Bolitochara pulchra	4	4	monophyletic		0.92		13.23	match	match	match	match
+Bolitophagus reticulatus	3	3	monophyletic		0.30		16.84	match	match	match	match
+Boreaphilus henningianus	5	5	monophyletic		0.46		14.19	match	match	match	match
+Boreophilia eremita	6	2	monophyletic		0.18		13.00	match	match	match	match
+Boreophilia sp.	1	1	monophyletic		N/A		4.21	match	match	match	match
+Boreostiba sibirica	4	1	monophyletic		0.00		4.39	match	match	match	match
+Boros schneideri	1	1	monophyletic		N/A		16.50	match	match	match	match
+Bothrynoderes affinis	4	2	monophyletic		1.23		15.51	match	match	match	match
+Brachonyx pineti	3	3	monophyletic		2.81	2.65	17.00	match	split	match	match
+Brachyderes incanus	5	5	monophyletic		2.17	1.55	16.56	match	match	split	match
+Brachygluta fossulata	2	2	monophyletic		0.46		16.85	match	match	match	match
+Brachypterolus linariae	2	2	monophyletic		0.30		15.35	match	match	match	match
+Brachypterolus pulicarius	2	1	monophyletic		0.00		16.46	match	match	match	match
+Brachypterus glaber	6	1	monophyletic		0.00		11.67	match	match	match	match
+Brachypterus urticae	3	2	monophyletic		2.34	2.34	11.67	match	match	split	split
+Brachyta interrogationis	5	3	monophyletic		0.30		12.39	match	match	match	match
+Bradycellus caucasicus	6	3	monophyletic		0.61		7.01	match	match	match	match
+Bradycellus ruficollis	1	1	monophyletic		N/A		7.01	match	match	match	match
+Bromius obscurus	4	1	monophyletic		0.00		18.99	match	match	match	match
+Broscus cephalotes	4	1	monophyletic		0.00		11.92	match	match	match	match
+Bruchus affinis	2	1	monophyletic		0.00		8.45	match	match	match	match
+Bruchus atomarius	1	1	monophyletic		N/A		11.32	match	match	match	match
+Bruchus loti	3	3	monophyletic		0.96		8.45	match	match	match	match
+Bryaxis puncticollis	2	1	monophyletic		0.00		27.61	match	match	match	match
+Brychius elevatus	3	2	monophyletic		0.61		12.98	match	match	match	match
+Bryophacis maklini	1	1	monophyletic		N/A		14.75	match	match	match	match
+Bryoporus cernuus	3	1	monophyletic		0.00		13.47	match	match	match	match
+Buprestis dalmatina	2	1	monophyletic		0.00		12.44	match	match	match	match
+Buprestis haemorrhoidalis	3	3	paraphyletic	Buprestis rustica	6.25	6.08	0.15	mixture	mixture	mixture	mixture
+Buprestis novemmaculata	1	1	monophyletic		N/A		13.21	match	match	match	match
+Buprestis octoguttata	1	1	monophyletic		N/A		15.59	match	match	match	match
+Buprestis rustica	1	1	monophyletic		N/A		0.15	mixture	mixture	mixture	mixture
+Byctiscus betulae	2	1	monophyletic		0.00		17.49	match	match	match	match
+Byctiscus populi	2	2	monophyletic		0.16		17.49	match	match	match	match
+Byrrhus arietinus	2	2	monophyletic		0.30		18.81	match	match	match	match
+Byrrhus fasciatus	3	3	monophyletic		1.60	1.60	16.95	match	match	split	match
+Byturus ochraceus	2	2	monophyletic		0.15		8.88	match	match	match	match
+Byturus tomentosus	4	2	monophyletic		0.31		8.88	match	match	match	match
+Cafius xantholoma	5	5	monophyletic		9.37	8.99	15.96	split	split	split	split
+Calathus ambiguus	2	1	monophyletic		0.00		3.27	match	match	match	match
+Calathus erratus	5	3	monophyletic		0.30		3.27	match	match	match	match
+Calathus fuscipes	5	1	monophyletic		0.00		9.21	match	match	match	match
+Calathus melanocephalus	4	2	monophyletic		0.16		3.92	match	match	match	match
+Calathus micropterus	6	2	monophyletic		0.15		3.92	match	match	match	match
+Callidium aeneum	4	1	monophyletic		0.00		13.97	match	match	match	match
+Callidium coriaceum	1	1	monophyletic		N/A		13.97	match	match	match	match
+Callidium violaceum	6	3	monophyletic		0.92		17.01	match	match	split	match
+Calodera aethiops	3	2	paraphyletic	Calodera riparia	3.12	3.12	2.17	merge	split	split	split
+Calodera riparia	1	1	monophyletic		N/A		2.17	merge	match	match	match
+Calodromius spilotus	1	1	monophyletic		N/A		12.38	match	match	match	match
+Calomicrus pinicola	1	1	monophyletic		N/A		17.00	match	match	match	match
+Calopus serraticornis	2	1	monophyletic		0.00		14.92	match	match	match	match
+Calosirus apicalis	1	1	monophyletic		N/A		17.27	match	match	match	match
+Calvia quatuordecimguttata	2	2	monophyletic		2.32	2.32	11.13	match	split	split	split
+Cantharis decipiens	1	1	monophyletic		N/A		10.62	match	match	match	match
+Cantharis figurata	4	4	monophyletic		0.61		6.23	match	match	match	match
+Cantharis flavilabris	2	2	monophyletic		0.15		8.56	match	match	match	match
+Cantharis fusca	4	1	monophyletic		0.00		9.88	match	match	match	match
+Cantharis lateralis	5	1	monophyletic		0.00		9.57	match	match	match	match
+Cantharis livida	5	1	monophyletic		0.00		11.13	match	match	match	match
+Cantharis nigra	2	1	monophyletic		0.00		8.56	match	match	match	match
+Cantharis obscura	3	3	monophyletic		1.54	1.38	9.91	match	match	match	match
+Cantharis paludosa	2	2	monophyletic		0.30		10.34	match	match	match	match
+Cantharis pellucida	5	4	monophyletic		0.46		6.23	match	match	match	match
+Cantharis quadripunctata	1	1	monophyletic		N/A		9.64	match	match	match	match
+Cantharis rufa	2	2	monophyletic		0.15		11.84	match	match	match	match
+Cantharis rustica	2	1	monophyletic		0.00		9.88	match	match	match	match
+Carabus cancellatus	3	1	monophyletic		0.00		11.77	match	match	match	match
+Carabus clathratus	1	1	monophyletic		N/A		11.73	match	match	match	match
+Carabus glabratus	5	4	monophyletic		0.30		9.46	match	match	match	match
+Carabus granulatus	2	2	monophyletic		0.30		13.21	match	match	match	match
+Carabus hortensis	2	2	monophyletic		0.46		9.46	match	match	match	match
+Carabus nemoralis	6	1	monophyletic		0.00		12.07	match	match	match	match
+Carabus nitens	1	1	monophyletic		N/A		11.77	match	match	match	match
+Carabus violaceus	2	2	monophyletic		3.70	3.70	11.37	split	split	split	split
+Carcinops pumilio	3	2	monophyletic		0.30		21.60	match	match	match	match
+Cardiophorus ruficollis	5	4	monophyletic		0.49		17.93	match	match	match	match
+Cardiophorus vestigialis	3	1	monophyletic		0.00		17.60	match	match	match	match
+Carpelimus bilineatus	5	3	monophyletic		0.61		6.71	match	match	match	match
+Carpelimus corticinus	2	1	monophyletic		0.00		12.99	match	match	match	match
+Carpelimus elongatulus	3	3	monophyletic		0.36		12.99	match	match	match	match
+Carpelimus impressus	1	1	monophyletic		N/A		8.48	match	match	match	match
+Carpelimus obesus	1	1	monophyletic		N/A		12.58	match	match	match	match
+Carpelimus pusillus	2	1	monophyletic		0.00		9.58	match	match	match	match
+Carpelimus rivularis	4	4	monophyletic		1.54	1.23	6.71	match	match	match	match
+Cartodere constricta	2	2	monophyletic		0.15		14.82	match	match	match	match
+Cartodere nodifer	3	2	monophyletic		0.32		14.82	match	match	match	match
+Cassida denticollis	2	2	monophyletic		0.16		15.07	match	match	match	match
+Cassida flaveola	1	1	monophyletic		N/A		15.39	match	match	match	match
+Cassida murraea	2	1	monophyletic		0.00		14.26	match	match	match	match
+Cassida nebulosa	5	4	monophyletic		1.60	1.43	17.32	match	match	match	match
+Cassida nobilis	3	3	monophyletic		4.91	4.75	16.85	match	split	split	split
+Cassida rubiginosa	2	2	monophyletic		0.92		14.51	match	match	match	match
+Cassida sanguinosa	3	3	monophyletic		0.61		14.51	match	match	match	match
+Cassida vibex	2	2	monophyletic		0.48		15.17	match	match	match	match
+Cassida viridis	3	2	monophyletic		0.16		14.26	match	match	match	match
+Catops alpinus	3	3	monophyletic		0.61		15.39	match	match	match	match
+Catops morio	1	1	monophyletic		N/A		15.55	match	match	match	match
+Cephalocousya nivicola	1	1	monophyletic		N/A		7.18	match	match	match	match
+Cerambyx scopoli	3	2	monophyletic		0.16		19.00	match	match	match	match
+Ceratomegilla notata	5	4	monophyletic		3.29	2.97	16.46	split	split	split	split
+Cercyon analis	4	2	monophyletic		0.17		12.37	match	match	match	match
+Cercyon bifenestratus	3	3	monophyletic		0.46		5.80	match	match	match	match
+Cercyon borealis	4	1	monophyletic		0.00		0.00	mixture	mixture	merge	merge
+Cercyon castaneipennis	1	1	monophyletic		N/A		12.35	match	match	match	match
+Cercyon convexiusculus	3	2	monophyletic		0.17		9.60	match	match	match	match
+Cercyon lateralis	5	1	monophyletic		0.00		12.18	match	match	match	match
+Cercyon marinus	7	4	monophyletic		3.29	3.10	5.80	split	split	match	split
+Cercyon melanocephalus	3	3	monophyletic		0.77		11.14	match	match	match	match
+Cercyon nigriceps	1	1	monophyletic		N/A		14.02	match	match	match	match
+Cercyon pygmaeus	1	1	monophyletic		N/A		12.75	match	match	match	match
+Cercyon quisquilius	3	3	monophyletic		0.46		7.85	match	match	match	match
+Cercyon sternalis	5	3	monophyletic		1.23		9.60	match	match	match	match
+Cercyon terminatus	1	1	monophyletic		N/A		13.89	match	match	match	match
+Cercyon tristis	4	4	monophyletic		1.18		11.38	match	match	match	match
+Cercyon unipunctatus	2	2	paraphyletic	Cercyon borealis	1.69	1.69	0.00	mixture	mixture	merge	merge
+Cerylon ferrugineum	1	1	monophyletic		N/A		0.46	merge	merge	mixture	merge
+Cerylon histeroides	8	8	paraphyletic	Cerylon ferrugineum	2.17	0.85	0.46	merge	merge	mixture	merge
+Cetonia aurata	1	1	monophyletic		N/A		15.54	match	match	match	match
+Cetonischema aeruginosa	1	1	monophyletic		N/A		12.20	match	match	match	match
+Ceutorhynchus asperifoliarum	3	2	monophyletic		0.30		17.44	match	match	match	match
+Ceutorhynchus barbareae	1	1	monophyletic		N/A		7.55	match	match	match	match
+Ceutorhynchus cakilis	2	1	monophyletic		0.00		0.00	merge	merge	merge	merge
+Ceutorhynchus cochleariae	2	2	monophyletic		0.32		12.59	match	match	match	match
+Ceutorhynchus contractus	14	4	paraphyletic	Ceutorhynchus erysimi	0.65		0.00	merge	merge	merge	merge
+Ceutorhynchus erysimi	4	2	monophyletic		0.82		0.00	merge	merge	merge	merge
+Ceutorhynchus fennicus	1	1	monophyletic		N/A		15.40	match	match	match	match
+Ceutorhynchus gallorhenanus	4	1	monophyletic		0.00		4.73	match	match	match	match
+Ceutorhynchus hampei	4	1	monophyletic		0.00		14.41	match	match	match	match
+Ceutorhynchus ignitus	8	6	monophyletic		1.39		6.82	match	match	match	match
+Ceutorhynchus inaffectatus	12	1	monophyletic		0.00		13.12	match	match	match	match
+Ceutorhynchus litura	2	2	monophyletic		0.46		17.44	match	match	match	match
+Ceutorhynchus obstrictus	11	2	monophyletic		0.33		4.73	match	match	match	match
+Ceutorhynchus pallidactylus	2	2	monophyletic		0.96		13.42	match	match	match	match
+Ceutorhynchus pervicax	1	1	monophyletic		N/A		6.82	match	match	match	match
+Ceutorhynchus pulvinatus	1	1	monophyletic		N/A		12.46	match	match	match	match
+Ceutorhynchus puncticollis	3	1	monophyletic		0.00		12.36	match	match	match	match
+Ceutorhynchus punctiger	3	3	monophyletic		7.78	7.61	15.40	split	split	split	split
+Ceutorhynchus querceti	3	3	monophyletic		0.88		15.88	match	match	match	match
+Ceutorhynchus rapae	1	1	monophyletic		N/A		12.76	match	match	match	match
+Ceutorhynchus roberti	2	2	monophyletic		1.14		14.02	match	match	match	match
+Ceutorhynchus triangulum	1	1	monophyletic		N/A		18.56	match	match	match	match
+Ceutorhynchus typhae	6	4	paraphyletic	Ceutorhynchus cakilis	0.46		0.00	merge	merge	merge	merge
+Chaetarthria seminulum	5	5	monophyletic		1.86	0.77	13.69	match	match	match	match
+Chaetocnema aridula	2	1	monophyletic		0.00		9.42	match	match	match	match
+Chaetocnema hortensis	7	4	monophyletic		0.78		11.22	match	match	match	match
+Chaetocnema mannerheimii	3	2	monophyletic		0.30		9.23	match	match	match	match
+Chaetocnema picipes	2	1	monophyletic		0.00		15.08	match	match	match	match
+Chaetocnema sahlbergii	5	5	monophyletic		0.61		9.23	match	match	match	match
+Chalcophora mariana	1	1	monophyletic		N/A		19.35	match	match	match	match
+Charopus graminicola	4	2	monophyletic		0.16		13.49	match	match	match	match
+Chilocorus bipustulatus	1	1	monophyletic		N/A		8.04	match	match	match	match
+Chilocorus renipustulatus	3	1	monophyletic		0.00		8.04	match	match	match	match
+Chlorophorus herbstii	1	1	monophyletic		N/A		16.85	match	match	match	match
+Chrysanthia geniculata	5	2	monophyletic		0.15		15.56	match	match	match	match
+Chrysanthia viridissima	5	2	monophyletic		0.48		15.56	match	match	match	match
+Chrysobothris chrysostigma	2	1	monophyletic		0.00		15.70	match	match	match	match
+Chrysolina fastuosa	8	3	monophyletic		1.86	1.39	14.85	split	match	match	match
+Chrysolina geminata	1	1	monophyletic		N/A		6.86	match	match	match	match
+Chrysolina graminis	1	1	monophyletic		N/A		16.13	match	match	match	match
+Chrysolina haemoptera	1	1	monophyletic		N/A		10.27	match	match	match	match
+Chrysolina hyperici	2	1	monophyletic		0.00		6.86	match	match	match	match
+Chrysolina marginata	4	3	monophyletic		2.97	2.23	14.24	match	match	match	split
+Chrysolina polita	4	3	monophyletic		0.30		18.34	match	match	match	match
+Chrysolina sanguinolenta	3	1	monophyletic		0.00		10.27	match	match	match	match
+Chrysolina staphylaea	2	2	monophyletic		0.48		16.72	match	match	match	match
+Chrysolina varians	5	4	monophyletic		5.28	4.11	13.21	match	split	split	split
+Chrysomela collaris	3	2	monophyletic		0.46		12.26	match	match	match	match
+Chrysomela cuprea	2	1	monophyletic		0.00		11.87	match	match	match	match
+Chrysomela lapponica	1	1	monophyletic		N/A		13.99	match	match	match	match
+Chrysomela populi	3	2	monophyletic		0.32		14.05	match	match	match	match
+Chrysomela tremula	4	3	monophyletic		4.60	4.10	12.83	match	split	split	split
+Chrysomela vigintipunctata	1	1	monophyletic		N/A		11.87	match	match	match	match
+Cicindela campestris	4	1	monophyletic		0.00		7.22	match	match	match	match
+Cicindela hybrida	5	3	monophyletic		0.30		7.22	match	match	match	match
+Cicindela maritima	3	2	monophyletic		0.16		7.74	match	match	match	match
+Cicindela sylvatica	2	1	monophyletic		0.00		7.37	match	match	match	match
+Cilea silphoides	2	2	monophyletic		0.15		14.75	match	match	match	match
+Cimberis attelaboides	1	1	monophyletic		N/A		15.50	match	match	match	match
+Cionus hortulanus	4	3	monophyletic		0.46		9.31	match	match	match	match
+Cionus nigritarsis	1	1	monophyletic		N/A		8.14	match	match	match	match
+Cionus scrophulariae	2	2	monophyletic		0.36		13.03	match	match	match	match
+Cionus tuberculosus	3	3	monophyletic		0.46		8.14	match	match	match	match
+Cis bidentatus	1	1	monophyletic		N/A		12.93	match	match	match	match
+Cis boleti	2	1	monophyletic		0.00		14.07	match	match	match	match
+Cis castaneus	1	1	monophyletic		N/A		8.20	match	match	match	match
+Cis comptus	2	2	monophyletic		0.15		18.21	match	match	match	match
+Cis dentatus	1	1	monophyletic		N/A		12.93	match	match	match	match
+Cis glabratus	1	1	monophyletic		N/A		18.70	match	match	match	match
+Cis jacquemartii	1	1	monophyletic		N/A		8.20	match	match	match	match
+Cis micans	1	1	monophyletic		N/A		14.07	match	match	match	match
+Cis punctulatus	1	1	monophyletic		N/A		18.21	match	match	match	match
+Clambus lohsei	1	1	monophyletic		N/A		17.86	match	match	match	match
+Cleopomiarus distinctus	3	1	monophyletic		0.00		14.04	match	match	match	match
+Cleopomiarus graminis	1	1	monophyletic		N/A		14.04	match	match	match	match
+Cleopus pulchellus	3	2	monophyletic		0.46		18.36	match	match	match	match
+Clivina fossor	4	3	monophyletic		0.46		12.94	match	match	match	match
+Clytra quadripunctata	4	1	monophyletic		0.00		19.92	match	match	match	match
+Clytus arietis	2	2	monophyletic		0.16		17.87	match	match	match	match
+Coccidula rufa	4	4	monophyletic		3.12	2.49	16.10	match	match	split	split
+Coccidula scutellata	4	3	monophyletic		0.77		16.10	match	match	match	match
+Coccinella hieroglyphica	1	1	monophyletic		N/A		4.17	merge	match	match	match
+Coccinella quinquepunctata	1	1	monophyletic		N/A		4.17	merge	match	match	match
+Coccinella septempunctata	3	2	monophyletic		0.33		13.41	match	match	match	match
+Coccinella trifasciata	1	1	monophyletic		N/A		10.65	match	match	match	match
+Coccinella undecimpunctata	5	2	monophyletic		0.30		12.42	match	match	match	match
+Coccinula quatuordecimpustulata	5	4	monophyletic		1.23		14.08	match	match	match	match
+Coeliastes lamii	3	3	monophyletic		2.97	2.57	14.78	match	split	split	split
+Coeliodes rubicundus	2	2	monophyletic		0.16		18.56	match	match	match	match
+Coelostoma orbiculare	5	4	monophyletic		1.85	1.69	16.63	match	match	match	match
+Colenis immunda	2	2	monophyletic		1.86	1.86	14.41	match	match	split	match
+Colon appendiculatum	5	1	monophyletic		0.00		10.10	match	match	match	match
+Colon bidentatum	1	1	monophyletic		N/A		8.54	match	match	match	match
+Colon latum	1	1	monophyletic		N/A		4.56	match	match	match	match
+Colon pseudolatum	1	1	monophyletic		N/A		4.56	match	match	match	match
+Colon serripes	2	2	monophyletic		0.46		8.54	match	match	match	match
+Colymbetes dolabratus	1	1	monophyletic		N/A		9.31	match	match	match	match
+Colymbetes paykulli	4	4	monophyletic		1.39		9.31	match	match	match	match
+Cordalia obscura	5	2	monophyletic		0.30		12.90	match	match	match	match
+Cordylepherus viridis	6	4	monophyletic		0.46		12.11	match	match	match	match
+Corticaria abietorum	1	1	monophyletic		N/A		7.72	match	match	match	match
+Corticaria crenulata	1	1	monophyletic		N/A		10.78	match	match	match	match
+Corticaria elongata	5	5	monophyletic		0.67		11.29	match	match	match	match
+Corticaria foveola	2	1	monophyletic		0.00		7.72	match	match	match	match
+Corticaria impressa	5	1	monophyletic		0.00		13.36	match	match	match	match
+Corticaria lapponica	4	2	monophyletic		0.30		12.75	match	match	match	match
+Corticaria longicollis	1	1	monophyletic		N/A		11.67	match	match	match	match
+Corticaria orbicollis	1	1	monophyletic		N/A		10.28	match	match	match	match
+Corticaria polypori	2	2	monophyletic		1.39		11.49	match	match	match	match
+Corticaria rubripes	1	1	monophyletic		N/A		10.80	match	match	match	match
+Corticaria umbilicata	1	1	monophyletic		N/A		11.31	match	match	match	match
+Corticarina latipennis	1	1	monophyletic		N/A		10.28	match	match	match	match
+Corticarina minuta	2	2	monophyletic		0.46		13.11	match	match	match	match
+Corticarina obfuscata	1	1	monophyletic		N/A		10.28	match	match	match	match
+Corticeus fraxini	2	1	monophyletic		0.00		17.23	match	match	match	match
+Corticeus unicolor	2	1	monophyletic		0.00		15.74	match	match	match	match
+Cortinicara gibbosa	4	2	monophyletic		0.46		12.40	match	match	match	match
+Cortodera femorata	1	1	monophyletic		N/A		16.12	match	match	match	match
+Creophilus maxillosus	2	1	monophyletic		0.00		14.58	match	match	match	match
+Crepidodera aurata	6	3	monophyletic		0.30		16.06	match	match	match	match
+Crepidodera fulvicornis	6	6	monophyletic		0.92		16.55	match	match	match	match
+Crepidodera nitidula	1	1	monophyletic		N/A		18.52	match	match	match	match
+Crioceris duodecimpunctata	1	1	monophyletic		N/A		17.92	match	match	match	match
+Cryphalus abietis	1	1	monophyletic		N/A		12.56	match	match	match	match
+Cryphalus saltuarius	2	1	monophyletic		0.00		12.56	match	match	match	match
+Crypticus quisquilius	2	1	monophyletic		0.00		15.09	match	match	match	match
+Cryptocephalus androgyne	4	1	monophyletic		0.00		2.01	match	match	merge	match
+Cryptocephalus aureolus	1	1	monophyletic		N/A		19.68	match	match	match	match
+Cryptocephalus bipunctatus	8	5	monophyletic		0.95		16.52	match	match	match	match
+Cryptocephalus distinguendus	2	2	monophyletic		0.15		13.70	match	match	match	match
+Cryptocephalus fulvus	2	1	monophyletic		0.00		18.21	match	match	match	match
+Cryptocephalus labiatus	8	3	monophyletic		0.30		16.52	match	match	match	match
+Cryptocephalus moraei	3	2	monophyletic		0.16		18.00	match	match	match	match
+Cryptocephalus nitidulus	1	1	monophyletic		N/A		16.13	match	match	match	match
+Cryptocephalus nitidus	5	1	monophyletic		0.00		18.79	match	match	match	match
+Cryptocephalus octopunctatus	1	1	monophyletic		N/A		1.24	merge	merge	merge	merge
+Cryptocephalus parvulus	2	2	monophyletic		0.32		2.01	match	match	merge	match
+Cryptocephalus pini	3	2	monophyletic		16.41	16.41	19.49	split	split	split	split
+Cryptocephalus punctiger	1	1	monophyletic		N/A		20.84	match	match	match	match
+Cryptocephalus pusillus	3	1	monophyletic		0.00		18.41	match	match	match	match
+Cryptocephalus quadripustulatus	3	2	monophyletic		0.15		16.13	match	match	match	match
+Cryptocephalus sexpunctatus	1	1	monophyletic		N/A		1.24	merge	merge	merge	merge
+Cryptolestes corticinus	1	1	monophyletic		N/A		17.41	match	match	match	match
+Cryptolestes duplicatus	1	1	monophyletic		N/A		15.87	match	match	match	match
+Cryptolestes ferrugineus	2	2	monophyletic		8.77	8.77	15.48	split	split	split	split
+Cryptophagus acutangulus	1	1	monophyletic		N/A		16.83	match	match	match	match
+Cryptophagus badius	2	2	monophyletic		1.23		16.12	match	match	match	match
+Cryptophagus confusus	2	1	monophyletic		0.00		15.80	match	match	match	match
+Cryptophagus dorsalis	1	1	monophyletic		N/A		17.25	match	match	match	match
+Cryptophagus parallelus	1	1	monophyletic		N/A		15.80	match	match	match	match
+Cryptophagus quercinus	1	1	monophyletic		N/A		16.12	match	match	match	match
+Cryptophagus setulosus	1	1	monophyletic		N/A		15.13	match	match	match	match
+Cryptophagus tuberculosus	2	1	monophyletic		0.00		15.13	match	match	match	match
+Cryptopleurum minutum	1	1	monophyletic		N/A		13.09	match	match	match	match
+Cryptopleurum subtile	3	2	monophyletic		0.15		12.90	match	match	match	match
+Cryptorhynchus lapathi	2	2	monophyletic		0.17		18.80	match	match	match	match
+Crypturgus subcribrosus	1	1	monophyletic		N/A		19.43	match	match	match	match
+Ctenicera pectinicornis	4	4	monophyletic		8.59	8.41	11.33	split	split	split	split
+Curimopsis paleata	1	1	monophyletic		N/A		17.05	match	match	match	match
+Cybister lateralimarginalis	1	1	monophyletic		N/A		10.94	match	match	match	match
+Cychramus luteus	6	4	monophyletic		1.40	1.25	17.28	match	match	split	match
+Cychramus variegatus	1	1	monophyletic		N/A		15.53	match	match	match	match
+Cychrus caraboides	2	2	monophyletic		0.32		10.79	match	match	match	match
+Cylletron nivale	2	1	monophyletic		0.00		12.26	match	match	match	match
+Cymbiodyta marginella	3	2	monophyletic		0.61		14.47	match	match	match	match
+Cymindis macularis	1	1	monophyletic		N/A		7.26	match	match	match	match
+Cymindis vaporariorum	2	2	monophyletic		0.46		7.26	match	match	match	match
+Cynegetis impunctata	2	1	monophyletic		0.00		18.70	match	match	match	match
+Cypha laeviuscula	1	1	monophyletic		N/A		9.94	match	match	match	match
+Cypha tarsalis	2	2	monophyletic		2.17	2.17	9.94	match	match	split	split
+Cyphon coarctatus	2	2	monophyletic		1.08		14.90	match	match	match	match
+Cyphon laevipennis	4	2	monophyletic		0.15		7.09	match	match	match	match
+Cyphon ochraceus	6	3	monophyletic		0.30		16.84	match	match	match	match
+Cyphon padi	4	2	monophyletic		0.15		18.63	match	match	match	match
+Cyphon palustris	2	2	monophyletic		0.30		14.90	match	match	match	match
+Cyphon variabilis	6	5	monophyletic		0.46		7.09	match	match	match	match
+Cytilus auricomus	6	3	monophyletic		1.77	1.56	2.50	split	split	match	match
+Cytilus sericeus	4	4	monophyletic		0.61		2.50	match	match	match	match
+Dacne bipustulata	4	1	monophyletic		0.00		18.14	match	match	match	match
+Dalopius marginatus	4	2	monophyletic		0.30		14.25	match	match	match	match
+Dasytes cyaneus	1	1	monophyletic		N/A		7.71	match	match	match	match
+Dasytes fusculus	1	1	monophyletic		N/A		7.90	match	match	match	match
+Dasytes niger	5	5	monophyletic		1.70	0.92	8.73	match	match	match	match
+Dasytes obscurus	3	2	monophyletic		0.18		8.22	match	match	match	match
+Dasytes plumbeus	5	4	monophyletic		1.80	1.24	7.71	match	match	split	match
+Deleaster dichrous	3	1	monophyletic		0.00		17.79	match	match	match	match
+Deliphrum tectum	2	1	monophyletic		0.00		13.84	match	match	match	match
+Demetrias imperialis	8	1	monophyletic		0.00		11.65	match	match	match	match
+Dendroctonus micans	2	1	monophyletic		0.00		20.82	match	match	match	match
+Dendrophagus crenatus	1	1	monophyletic		N/A		13.59	match	match	match	match
+Dendrophilus pygmaeus	1	1	monophyletic		N/A		18.52	match	match	match	match
+Denticollis borealis	2	1	monophyletic		0.00		16.08	match	match	match	match
+Denticollis linearis	4	1	monophyletic		0.00		11.33	match	match	match	match
+Deporaus betulae	5	5	monophyletic		1.07		18.84	match	match	match	match
+Dermestes lardarius	2	2	monophyletic		0.15		11.68	match	match	match	match
+Dermestes maculatus	1	1	monophyletic		N/A		9.72	match	match	match	match
+Dermestes murinus	1	1	monophyletic		N/A		11.13	match	match	match	match
+Dermestes szekessyi	5	1	monophyletic		0.00		9.72	match	match	match	match
+Devia prospera	5	2	monophyletic		1.07		10.08	match	match	match	match
+Dexiogyia forticornis	1	1	monophyletic		N/A		12.37	match	match	match	match
+Diaperis boleti	5	2	monophyletic		0.16		14.09	match	match	match	match
+Dicerca moesta	3	2	monophyletic		0.30		18.84	match	match	match	match
+Dicheirotrichus cognatus	1	1	monophyletic		N/A		3.43	match	match	match	match
+Dicheirotrichus placidus	5	4	monophyletic		0.30		5.38	match	match	match	match
+Dicheirotrichus rufithorax	1	1	monophyletic		N/A		3.43	match	match	match	match
+Dictyoptera aurora	5	4	monophyletic		6.69	6.23	20.53	split	split	split	split
+Dienerella vincenti	1	1	monophyletic		N/A		20.76	match	match	match	match
+Dinaraea aequata	2	1	monophyletic		0.00		13.68	match	match	match	match
+Dissoleucas niveirostris	1	1	monophyletic		N/A		17.61	match	match	match	match
+Dochmonota clancula	1	1	monophyletic		N/A		13.46	match	match	match	match
+Dolichosoma lineare	3	1	monophyletic		0.00		9.08	match	match	match	match
+Donacia antiqua	1	1	monophyletic		N/A		9.57	match	match	match	match
+Donacia aquatica	1	1	monophyletic		N/A		15.71	match	match	match	match
+Donacia obscura	3	3	monophyletic		0.46		9.57	match	match	match	match
+Donacia semicuprea	2	1	monophyletic		0.00		16.89	match	match	match	match
+Donacia thalassina	6	5	monophyletic		0.48		13.55	match	match	match	match
+Donacia vulgaris	1	1	monophyletic		N/A		15.71	match	match	match	match
+Dorcatoma chrysomelina	2	1	monophyletic		0.00		17.31	match	match	match	match
+Dorcatoma dresdensis	1	1	monophyletic		N/A		14.71	match	match	match	match
+Dorcatoma robusta	2	2	monophyletic		0.15		14.71	match	match	match	match
+Dorcus parallelipipedus	2	2	monophyletic		0.16		17.31	match	match	match	match
+Dorytomus melanophthalmus	3	2	monophyletic		0.46		16.35	match	match	match	match
+Dorytomus salicinus	3	1	monophyletic		0.00		14.80	match	match	match	match
+Dorytomus taeniatus	1	1	monophyletic		N/A		12.59	match	match	match	match
+Dorytomus tremulae	1	1	monophyletic		N/A		12.59	match	match	match	match
+Doydirhynchus austriacus	1	1	monophyletic		N/A		15.48	match	match	match	match
+Drapetes mordelloides	1	1	monophyletic		N/A		18.14	match	match	match	match
+Drilus concolor	2	1	monophyletic		0.00		21.70	match	match	match	match
+Dromius agilis	5	2	monophyletic		0.15		10.28	match	match	match	match
+Dromius fenestratus	4	3	monophyletic		0.46		4.27	match	match	match	match
+Dromius quadraticollis	1	1	monophyletic		N/A		7.22	match	match	match	match
+Dromius schneideri	2	2	monophyletic		0.76		4.27	match	match	match	match
+Drusilla canaliculata	3	1	monophyletic		0.00		11.47	match	match	match	match
+Dryocoetes autographus	1	1	monophyletic		N/A		17.51	match	match	match	match
+Dryocoetes villosus	3	1	monophyletic		0.00		17.51	match	match	match	match
+Dryophilus pusillus	1	1	monophyletic		N/A		15.68	match	match	match	match
+Dryops anglicanus	3	3	monophyletic		0.51		10.40	match	match	match	match
+Dryops ernesti	2	1	monophyletic		0.00		10.14	match	match	match	match
+Dryops luridus	1	1	monophyletic		N/A		10.14	match	match	match	match
+Dryops similaris	1	1	monophyletic		N/A		11.05	match	match	match	match
+Dyschirius aeneus	1	1	monophyletic		N/A		8.19	match	match	match	match
+Dyschirius angustatus	3	1	monophyletic		0.00		8.56	match	match	match	match
+Dyschirius globosus	6	5	monophyletic		1.15		7.49	match	match	match	match
+Dyschirius nigricornis	6	4	monophyletic		0.92		8.01	match	match	match	match
+Dyschirius obscurus	3	2	polyphyletic	Dyschirius thoracicus	0.77		0.31	merge	merge	mixture	mixture
+Dyschirius politus	2	2	monophyletic		0.15		7.17	match	match	match	match
+Dyschirius salinus	1	1	monophyletic		N/A		8.01	match	match	match	match
+Dyschirius thoracicus	6	6	paraphyletic	Dyschirius obscurus	2.97	2.30	0.31	merge	merge	mixture	mixture
+Dyschirius tristis	4	1	monophyletic		0.00		7.17	match	match	match	match
+Dytiscus circumcinctus	2	1	monophyletic		0.00		4.90	match	match	match	match
+Dytiscus lapponicus	1	1	monophyletic		N/A		4.09	match	match	match	match
+Dytiscus marginalis	3	2	monophyletic		1.86	1.86	4.09	match	split	match	split
+Eanus costalis	2	1	monophyletic		0.00		17.14	match	match	match	match
+Ebaeus lapplandicus	1	1	monophyletic		N/A		16.16	match	match	match	match
+Eblisia minor	1	1	monophyletic		N/A		18.87	match	match	match	match
+Elaphrus cupreus	6	2	monophyletic		0.32		9.08	match	match	match	match
+Elaphrus riparius	4	3	monophyletic		0.16		11.86	match	match	match	match
+Elaphrus uliginosus	3	1	monophyletic		0.00		9.08	match	match	match	match
+Ellescus bipunctatus	1	1	monophyletic		N/A		12.30	match	match	match	match
+Ellescus scanicus	1	1	monophyletic		N/A		12.30	match	match	match	match
+Elmis aenea	2	1	monophyletic		0.00		18.59	match	match	match	match
+Elodes minuta	1	1	monophyletic		N/A		20.30	match	match	match	match
+Encephalus complicans	1	1	monophyletic		N/A		12.27	match	match	match	match
+Endomychus coccineus	4	3	monophyletic		0.46		16.06	match	match	match	match
+Enicmus rugosus	1	1	monophyletic		N/A		18.71	match	match	match	match
+Enochrus affinis	7	7	monophyletic		4.89	4.07	14.59	split	split	split	split
+Enochrus bicolor	5	4	monophyletic		0.77		13.88	match	match	match	match
+Enochrus coarctatus	1	1	monophyletic		N/A		12.39	match	match	match	match
+Enochrus melanocephalus	1	1	monophyletic		N/A		14.61	match	match	match	match
+Enochrus ochropterus	1	1	monophyletic		N/A		13.31	match	match	match	match
+Enochrus quadripunctatus	4	4	monophyletic		1.08		11.49	match	match	match	match
+Enochrus testaceus	6	2	monophyletic		0.15		11.49	match	match	match	match
+Ephistemus globulus	1	1	monophyletic		N/A		15.14	match	match	match	match
+Epuraea aestiva	5	5	monophyletic		1.54	1.07	16.00	match	split	match	match
+Epuraea biguttata	2	2	monophyletic		0.46		8.24	match	match	match	match
+Epuraea boreella	3	2	monophyletic		0.46		6.04	match	match	match	match
+Epuraea contractula	3	1	monophyletic		0.00		8.60	match	match	match	match
+Epuraea laeviuscula	1	1	monophyletic		N/A		7.80	match	match	match	match
+Epuraea marseuli	2	2	monophyletic		0.16		11.21	match	match	match	match
+Epuraea opalizans	4	3	monophyletic		0.30		6.04	match	match	match	match
+Epuraea pallescens	3	1	monophyletic		0.00		11.70	match	match	match	match
+Epuraea placida	1	1	monophyletic		N/A		7.65	match	match	match	match
+Epuraea pygmaea	1	1	monophyletic		N/A		6.74	match	match	match	match
+Epuraea rufomarginata	2	1	monophyletic		0.00		10.32	match	match	match	match
+Epuraea silacea	4	1	monophyletic		0.00		9.97	match	match	match	match
+Epuraea terminalis	2	2	monophyletic		0.15		7.65	match	match	match	match
+Epuraea unicolor	2	1	monophyletic		0.00		8.24	match	match	match	match
+Epuraea variegata	2	1	monophyletic		0.00		10.53	match	match	match	match
+Erichsonius cinerascens	4	3	monophyletic		0.37		17.28	match	match	match	match
+Ernobius explanatus	3	2	monophyletic		1.23		16.64	match	match	match	match
+Euaesthetus bipunctatus	1	1	monophyletic		N/A		14.03	match	match	match	match
+Euaesthetus laeviusculus	1	1	monophyletic		N/A		14.45	match	match	match	match
+Eucinetus haemorrhoidalis	1	1	monophyletic		N/A		17.20	match	match	match	match
+Eucnecosum brachypterum	8	5	monophyletic		3.61	2.80	8.07	split	split	split	split
+Eucnecosum brunnescens	2	2	monophyletic		0.15		8.07	match	match	match	match
+Euconnus hirticollis	1	1	monophyletic		N/A		16.02	match	match	match	match
+Euryptilium saxonicum	1	1	monophyletic		N/A		14.77	match	match	match	match
+Eusphalerum lapponicum	2	1	monophyletic		0.00		1.23	merge	merge	merge	merge
+Eusphalerum minutum	5	1	monophyletic		0.00		13.48	match	match	match	match
+Eusphalerum sorbicola	1	1	monophyletic		N/A		1.23	merge	merge	merge	merge
+Evodinus borealis	2	2	monophyletic		0.30		12.39	match	match	match	match
+Exocentrus lusitanus	5	3	monophyletic		0.46		17.58	match	match	match	match
+Exochomus quadripustulatus	1	1	monophyletic		N/A		15.32	match	match	match	match
+Fagniezia impressa	4	2	monophyletic		0.16		16.46	match	match	match	match
+Falagria caesa	6	4	monophyletic		1.54	1.38	13.01	split	split	split	match
+Fleutiauxellus maritimus	2	2	monophyletic		0.15		17.46	match	match	match	match
+Gabrius appendiculatus	1	1	monophyletic		N/A		6.06	match	match	match	match
+Gabrius breviventer	2	2	monophyletic		0.15		7.42	match	match	match	match
+Gabrius osseticus	3	1	monophyletic		0.00		16.72	match	match	match	match
+Gabrius piliger	1	1	monophyletic		N/A		14.40	match	match	match	match
+Gabrius toxotes	4	2	monophyletic		2.64	2.48	6.06	match	split	match	split
+Gabrius trossulus	3	3	monophyletic		0.93		14.26	match	match	match	match
+Gabronthus sulcifrons	2	2	monophyletic		0.65		15.01	match	match	match	match
+Galeruca tanaceti	3	3	monophyletic		1.86	1.49	12.21	match	match	match	match
+Galerucella aquatica	1	1	monophyletic		N/A		0.17	merge	merge	mixture	merge
+Galerucella calmariensis	3	2	paraphyletic	Galerucella pusilla	0.30		0.00	merge	merge	merge	merge
+Galerucella lineola	3	3	monophyletic		0.30		6.88	match	match	match	match
+Galerucella nymphaeae	4	4	polyphyletic	"Galerucella sagittariae,Galerucella aquatica,Galerucella sp."	1.54	1.38	0.00	merge	merge	mixture	merge
+Galerucella pusilla	1	1	monophyletic		N/A		0.00	merge	merge	merge	merge
+Galerucella sagittariae	7	6	polyphyletic	"Galerucella aquatica,Galerucella nymphaeae,Galerucella sp."	1.54	1.23	0.00	merge	merge	mixture	merge
+Galerucella sp.	2	2			0.30						
+Galerucella tenella	9	5	monophyletic		0.61		0.68	merge	match	match	merge
+Gastrophysa polygoni	4	3	monophyletic		0.31		18.20	match	match	match	match
+Gastrophysa viridula	2	1	monophyletic		0.00		13.61	match	match	match	match
+Gaurotes virginea	5	1	monophyletic		0.00		12.74	match	match	match	match
+Geodromicus longipes	1	1	monophyletic		N/A		12.15	match	match	match	match
+Geodromicus plagiatus	1	1	monophyletic		N/A		11.64	match	match	match	match
+Georissus crenulatus	1	1	monophyletic		N/A		15.11	match	match	match	match
+Geostiba circellaris	2	1	monophyletic		0.00		14.22	match	match	match	match
+Geotrupes stercorosus	1	1	monophyletic		N/A		14.18	match	match	match	match
+Glischrochilus hortensis	2	2	monophyletic		0.65		17.37	match	match	match	match
+Glischrochilus quadripunctatus	3	3	monophyletic		1.00		17.37	match	match	match	match
+Gnathoncus buyssoni	1	1	monophyletic		N/A		20.09	match	match	match	match
+Gnatocerus cornutus	1	1	monophyletic		N/A		17.70	match	match	match	match
+Gnypeta caerulea	3	2	monophyletic		0.17		8.75	match	match	match	match
+Gnypeta carbonaria	1	1	monophyletic		N/A		9.56	match	match	match	match
+Gnypeta sellmani	3	1	monophyletic		0.00		8.75	match	match	match	match
+Gonioctena arctica	5	3	monophyletic		0.31		10.15	match	match	match	match
+Gonioctena decemnotata	2	2	monophyletic		0.17		8.88	match	match	match	match
+Gonioctena flavicornis	4	2	monophyletic		0.30		8.25	match	match	match	match
+Gonioctena intermedia	4	3	monophyletic		1.23		10.23	match	match	match	match
+Gonioctena linnaeana	4	2	monophyletic		0.15		8.25	match	match	match	match
+Gonioctena pallida	1	1	monophyletic		N/A		10.23	match	match	match	match
+Gonioctena viminalis	1	1	monophyletic		N/A		9.12	match	match	match	match
+Graphoderus zonatus	1	1	monophyletic		N/A		12.04	match	match	match	match
+Grypus equiseti	2	2	monophyletic		0.77		25.72	match	match	match	match
+Gymnetron melanarium	3	1	monophyletic		0.00		19.53	match	match	match	match
+Gymnusa brevicollis	4	2	monophyletic		0.32		14.85	match	match	match	match
+Gymnusa variegata	1	1	monophyletic		N/A		17.84	match	match	match	match
+Gyrinus aeratus	3	3	monophyletic		0.61		4.75	match	match	match	match
+Gyrinus marinus	1	1	monophyletic		N/A		4.75	match	match	match	match
+Gyrinus minutus	2	2	monophyletic		0.77		10.27	match	match	match	match
+Gyrinus natator	1	1	monophyletic		N/A		4.74	match	match	match	match
+Gyrinus opacus	4	4	monophyletic		1.07		5.53	match	match	match	match
+Gyrinus paykulli	1	1	monophyletic		N/A		5.71	match	match	match	match
+Gyrinus substriatus	5	2	monophyletic		0.30		4.74	match	match	match	match
+Gyrohypnus angustatus	5	2	monophyletic		0.61		15.69	match	match	match	match
+Gyrophaena affinis	3	2	monophyletic		0.15		14.75	match	match	match	match
+Gyrophaena bihamata	1	1	monophyletic		N/A		11.78	match	match	match	match
+Gyrophaena boleti	2	1	monophyletic		0.00		15.30	match	match	match	match
+Gyrophaena congrua	1	1	monophyletic		N/A		11.78	match	match	match	match
+Gyrophaena fasciata	2	1	monophyletic		0.00		10.15	match	match	match	match
+Gyrophaena joyioides	2	1	monophyletic		0.00		10.15	match	match	match	match
+Gyrophaena strictula	1	1	monophyletic		N/A		12.21	match	match	match	match
+Gyrophaena williamsi	1	1	monophyletic		N/A		12.21	match	match	match	match
+Habrocerus capillaricornis	1	1	monophyletic		N/A		13.63	match	match	match	match
+Hadrobregmus confusus	2	1	monophyletic		0.00		21.19	match	match	match	match
+Haliplus fulvus	1	1	monophyletic		N/A		10.24	match	match	match	match
+Haliplus immaculatus	3	3	monophyletic		0.30		5.06	match	match	match	match
+Haliplus lineolatus	3	2	monophyletic		0.16		2.81	match	match	merge	match
+Haliplus nr. lineolatus	1	1	monophyletic		N/A		3.45	match	match	match	match
+Haliplus ruficollis	3	3	paraphyletic	"Haliplus ,Haliplus lineolatus,Haliplus nr. lineolatus"	2.49	2.33	3.93	match	split	split	split
+Haliplus sibiricus	2	1	monophyletic		0.00		2.81	match	match	merge	match
+Hallomenus axillaris	2	2	monophyletic		0.15		15.66	match	match	match	match
+Halobrecta puncticeps	2	2	monophyletic		0.15		15.12	match	match	match	match
+Halyzia sedecimguttata	8	5	monophyletic		7.83	4.43	11.67	split	split	split	split
+Harminius undulatus	2	2	monophyletic		0.92		15.51	match	match	match	match
+Harpalus affinis	5	1	monophyletic		0.00		1.23	merge	match	merge	merge
+Harpalus distinguendus	1	1	monophyletic		N/A		1.23	merge	match	merge	merge
+Harpalus laevipes	5	5	monophyletic		1.23		3.76	match	match	match	match
+Harpalus latus	4	2	monophyletic		0.15		2.81	match	match	match	match
+Harpalus luteicornis	1	1	monophyletic		N/A		4.07	match	match	match	match
+Harpalus nigritarsis	1	1	monophyletic		N/A		1.85	match	match	merge	match
+Harpalus rubripes	6	1	monophyletic		0.00		3.75	match	match	match	match
+Harpalus rufipes	4	1	monophyletic		0.00		6.34	match	match	match	match
+Harpalus smaragdinus	1	1	monophyletic		N/A		2.74	match	match	match	match
+Harpalus solitaris	4	2	monophyletic		0.16		1.85	match	match	merge	match
+Harpalus subcylindricus	1	1	monophyletic		N/A		2.32	merge	match	match	match
+Harpalus tardus	5	4	monophyletic		0.48		3.28	match	match	match	match
+Harpalus xanthopus	1	1	monophyletic		N/A		3.10	match	match	match	match
+Hedobia imperialis	1	1	monophyletic		N/A		18.25	match	match	match	match
+Helochares obscurus	2	2	monophyletic		1.30		14.47	match	match	match	match
+Helophorus brevipalpis	7	2	monophyletic		1.70	1.70	12.08	split	split	match	match
+Helophorus glacialis	1	1	monophyletic		N/A		13.08	match	match	match	match
+Helophorus granularis	2	2	monophyletic		0.46		12.11	match	match	match	match
+Helophorus lapponicus	1	1	monophyletic		N/A		12.49	match	match	match	match
+Helophorus nanus	1	1	monophyletic		N/A		12.21	match	match	match	match
+Helophorus nubilus	1	1	monophyletic		N/A		12.08	match	match	match	match
+Helophorus pumilio	1	1	monophyletic		N/A		14.10	match	match	match	match
+Helophorus strandi	1	1	monophyletic		N/A		12.21	match	match	match	match
+Hemicrepidius niger	1	1	monophyletic		N/A		17.08	match	match	match	match
+Heterocerus fenestratus	1	1	monophyletic		N/A		12.61	match	match	match	match
+Heterocerus hispidulus	1	1	monophyletic		N/A		16.93	match	match	match	match
+Heterothops quadripunctulus	1	1	monophyletic		N/A		17.06	match	match	match	match
+Hippodamia septemmaculata	2	2	paraphyletic	Hippodamia tredecimpunctata	1.08		0.00	merge	merge	merge	merge
+Hippodamia tredecimpunctata	5	4	monophyletic		0.46		0.00	merge	merge	merge	merge
+Hippodamia variegata	3	3	monophyletic		0.77		14.75	match	match	match	match
+Hippuriphila modeeri	1	1	monophyletic		N/A		15.74	match	match	match	match
+Holobus apicatus	1	1	monophyletic		N/A		15.88	match	match	match	match
+Holobus flavicornis	1	1	monophyletic		N/A		16.25	match	match	match	match
+Hololepta plana	1	1	monophyletic		N/A		18.60	match	match	match	match
+Homalota plana	1	1	monophyletic		N/A		13.09	match	match	match	match
+Hoshihananomia perlata	2	2	monophyletic		0.48		23.08	match	match	match	match
+Hydaticus aruspex	2	2	monophyletic		5.76	5.76	5.53	split	split	split	split
+Hydaticus seminiger	1	1	monophyletic		N/A		5.53	match	match	match	match
+Hydaticus transversalis	1	1	monophyletic		N/A		8.64	match	match	match	match
+Hydnobius septentrionalis	1	1	monophyletic		N/A		16.92	match	match	match	match
+Hydnobius spinipes	4	3	monophyletic		0.61		19.36	match	match	match	match
+Hydraena britteni	4	4	monophyletic		8.95	8.59	13.66	split	split	split	split
+Hydraena gracilis	1	1	monophyletic		N/A		13.66	match	match	match	match
+Hydrobius fuscipes	12	8	monophyletic		7.58	[includes three species]	14.73	split	split	split	split
+Hydrochus brevis	5	2	monophyletic		0.16		12.05	match	match	match	match
+Hydrochus megaphallus	1	1	monophyletic		N/A		12.05	match	match	match	match
+Hydroglyphus geminus	4	2	monophyletic		0.15		13.49	match	match	match	match
+Hydrophilus aterrimus	5	2	monophyletic		0.48		17.72	match	match	match	match
+Hydroporus angustatus	6	5	monophyletic		0.61		9.96	match	match	match	match
+Hydroporus erythrocephalus	5	5	monophyletic		1.24		7.91	match	match	match	match
+Hydroporus fuscipennis	1	1	monophyletic		N/A		9.73	match	match	match	match
+Hydroporus geniculatus	7	3	monophyletic		2.81	2.50	7.87	split	match	match	split
+Hydroporus gyllenhalii	1	1	monophyletic		N/A		6.11	match	match	match	match
+Hydroporus incognitus	2	2	monophyletic		0.92		5.64	match	match	match	match
+Hydroporus memnonius	4	2	monophyletic		3.46	3.46	10.26	split	split	match	split
+Hydroporus morio	3	3	monophyletic		2.81	2.65	7.52	split	match	split	split
+Hydroporus neglectus	1	1	monophyletic		N/A		9.96	match	match	match	match
+Hydroporus nigrita	2	2	monophyletic		0.46		7.02	match	match	match	match
+Hydroporus notabilis	3	3	monophyletic		2.96	2.80	8.37	split	split	match	split
+Hydroporus obscurus	2	2	monophyletic		0.30		7.52	match	match	match	match
+Hydroporus palustris	6	4	monophyletic		1.70	0.76	7.63	match	match	match	match
+Hydroporus planus	2	2	monophyletic		1.54	1.54	9.05	match	match	match	split
+Hydroporus pubescens	3	3	monophyletic		0.46		7.02	match	match	match	match
+Hydroporus rufifrons	3	2	monophyletic		0.15		7.68	match	match	match	match
+Hydroporus striola	1	1	monophyletic		N/A		5.64	match	match	match	match
+Hydroporus submuticus	2	1	monophyletic		0.00		7.87	match	match	match	match
+Hydroporus tristis	6	3	monophyletic		0.30		6.11	match	match	match	match
+Hydroporus umbrosus	3	3	monophyletic		0.46		10.28	match	match	match	match
+Hydrosmecta longula	1	1	monophyletic		N/A		11.65	match	match	match	match
+Hydrothassa hannoveriana	5	1	monophyletic		0.00		6.41	match	match	match	match
+Hydrothassa marginella	4	1	monophyletic		0.00		6.41	match	match	match	match
+Hygronoma dimidiata	3	2	monophyletic		0.15		13.27	match	match	match	match
+Hygropora cunctans	1	1	monophyletic		N/A		9.39	match	match	match	match
+Hygrotus decoratus	1	1	monophyletic		N/A		11.65	match	match	match	match
+Hygrotus impressopunctatus	2	2	monophyletic		1.61	1.61	13.07	match	match	match	split
+Hygrotus inaequalis	4	3	monophyletic		0.46		14.33	match	match	match	match
+Hygrotus marklini	5	4	monophyletic		0.76		9.70	match	match	match	match
+Hygrotus novemlineatus	7	3	monophyletic		0.32		9.70	match	match	match	match
+Hygrotus quinquelineatus	4	3	monophyletic		2.97	2.81	15.27	split	split	match	split
+Hylastes brunneus	1	1	monophyletic		N/A		16.19	match	match	match	match
+Hylastes cunicularius	2	2	monophyletic		0.30		16.19	match	match	match	match
+Hylastes opacus	4	2	monophyletic		0.15		18.84	match	match	match	match
+Hylecoetus dermestoides	3	2	monophyletic		0.15		18.62	match	match	match	match
+Hylesinus crenatus	6	4	monophyletic		0.92		18.27	match	match	match	match
+Hylobius abietis	5	4	monophyletic		0.30		15.92	match	match	match	match
+Hylobius piceus	3	2	monophyletic		1.75	1.52	15.92	match	split	match	match
+Hylotrupes bajulus	1	1	monophyletic		N/A		17.30	match	match	match	match
+Hylurgops glabratus	2	2	monophyletic		0.16		18.57	match	match	match	match
+Hylurgops palliatus	2	2	monophyletic		0.15		18.72	match	match	match	match
+Hypera arator	4	4	monophyletic		10.98	10.61	11.54	split	split	split	split
+Hypera dauci	1	1	monophyletic		N/A		14.39	match	match	match	match
+Hypera denominanda	1	1	monophyletic		N/A		5.73	match	match	match	match
+Hypera fornicata	1	1	monophyletic		N/A		2.81	match	match	merge	merge
+Hypera meles	2	2	monophyletic		1.54	1.54	2.81	split	match	merge	merge
+Hypera nigrirostris	5	3	monophyletic		1.94	1.61	5.29	split	split	match	match
+Hypera plantaginis	1	1	monophyletic		N/A		13.35	match	match	match	match
+Hypera pollux	2	2	monophyletic		0.30		9.22	match	match	match	match
+Hypera postica	4	2	monophyletic		0.15		5.73	match	match	match	match
+Hypera rumicis	4	1	monophyletic		0.16		12.23	match	match	match	match
+Hypera suspiciosa	6	4	monophyletic		5.75	4.77	9.10	match	split	split	split
+Hypera venusta	1	1	monophyletic		N/A		6.00	match	match	match	match
+Hypera viciae	4	1	monophyletic		0.00		9.74	match	match	match	match
+Hypera zoilus	1	1	monophyletic		N/A		13.32	match	match	match	match
+Hyphydrus ovatus	3	3	monophyletic		1.54	1.54	12.57	match	match	match	split
+Hypnoidus riparius	6	1	monophyletic		0.00		13.16	match	match	match	match
+Hypnoidus rivularius	4	4	monophyletic		2.00	1.69	13.16	match	match	match	match
+Hypocaccus rugifrons	5	2	monophyletic		0.16		17.19	match	match	match	match
+Ilybius aenescens	3	2	monophyletic		0.15		8.77	match	match	match	match
+Ilybius angustior	1	1	monophyletic		N/A		0.15	merge	merge	merge	merge
+Ilybius ater	6	2	monophyletic		0.16		10.15	match	match	match	match
+Ilybius chalconatus	7	2	monophyletic		0.30		11.51	match	match	match	match
+Ilybius crassus	3	3	monophyletic		1.70	1.54	10.15	match	match	match	split
+Ilybius erichsoni	1	1	monophyletic		N/A		6.41	match	match	match	match
+Ilybius fenestratus	3	2	monophyletic		0.46		8.77	match	match	match	match
+Ilybius fuliginosus	4	3	monophyletic		0.32		9.04	match	match	match	match
+Ilybius guttiger	3	1	monophyletic		0.00		1.63	match	merge	match	merge
+Ilybius picipes	1	1	monophyletic		N/A		0.16	merge	merge	merge	merge
+Ilybius quadriguttatus	3	2	monophyletic		0.30		1.63	match	merge	match	merge
+Ilybius subtilis	2	2	monophyletic		0.30		6.41	match	match	match	match
+Ilybius wasastjernai	2	2	monophyletic		0.61		12.44	match	match	match	match
+Ilybius vittiger	1	1	monophyletic		N/A		11.61	match	match	match	match
+Ipidia binotata	3	2	monophyletic		0.15		16.79	match	match	match	match
+Ischnoglossa obscura	2	2	monophyletic		0.15		12.72	match	match	match	match
+Ischnopoda leucopus	3	1	monophyletic		0.00		12.33	match	match	match	match
+Ischnosoma longicorne	3	2	monophyletic		1.07		13.85	match	match	match	match
+Ischnosoma splendidum	5	3	monophyletic		0.30		13.85	match	match	match	match
+Isomira murina	3	1	monophyletic		0.00		16.89	match	match	match	match
+Judolia sexmaculata	5	5	monophyletic		1.54	0.92	17.07	match	match	match	match
+Kateretes pedicularius	1	1	monophyletic		N/A		11.58	match	match	match	match
+Kateretes pusillus	5	4	monophyletic		10.72	9.67	11.58	split	split	split	split
+Labidostomis tridentata	4	2	monophyletic		0.98		21.29	match	match	match	match
+Laccobius decorus	2	2	monophyletic		0.30		14.43	match	match	match	match
+Laccobius minutus	6	4	monophyletic		1.07		12.56	match	match	match	match
+Laccobius sinuatus	1	1	monophyletic		N/A		5.89	match	match	match	match
+Laccobius striatulus	2	2	monophyletic		0.46		5.89	match	match	match	match
+Laccophilus hyalinus	2	1	monophyletic		0.00		14.81	match	match	match	match
+Laccophilus minutus	2	1	monophyletic		0.00		11.32	match	match	match	match
+Lacon conspersus	5	2	monophyletic		0.30		8.24	match	match	match	match
+Lacon fasciatus	3	2	monophyletic		1.43	1.39	8.24	match	split	match	match
+Lagria hirta	6	5	monophyletic		0.77		15.12	match	match	match	match
+Lamia textor	4	4	monophyletic		1.38		15.73	match	match	match	match
+Lampyris noctiluca	5	3	monophyletic		7.41	7.20	18.58	split	split	split	split
+Larinus sturnus	2	2	monophyletic		0.15		15.51	match	match	match	match
+Lathrobium brunnipes	4	2	monophyletic		0.15		12.57	match	match	match	match
+Lathrobium elongatum	2	2	monophyletic		0.18		3.78	merge	match	match	match
+Lathrobium fulvipenne	3	2	monophyletic		0.15		11.66	match	match	match	match
+Lathrobium geminum	5	4	monophyletic		2.64	2.48	6.81	split	split	match	split
+Lathrobium impressum	3	3	monophyletic		1.38		6.97	match	match	match	match
+Lathrobium longulum	3	3	monophyletic		0.76		12.16	match	match	match	match
+Lathrobium rufipenne	1	1	monophyletic		N/A		3.78	merge	match	match	match
+Latridius consimilis	2	2	monophyletic		4.75	4.75	17.04	match	split	split	split
+Latridius gemellatus	1	1	monophyletic		N/A		16.78	match	match	match	match
+Lebia chlorocephala	1	1	monophyletic		N/A		10.27	match	match	match	match
+Lebia cruxminor	2	2	monophyletic		0.61		10.27	match	match	match	match
+Leiodes calcarata	1	1	monophyletic		N/A		14.68	match	match	match	match
+Leiodes ferruginea	2	2	monophyletic		0.77		16.14	match	match	match	match
+Leiodes fracta	1	1	monophyletic		N/A		15.94	match	match	match	match
+Leiodes inordinata	1	1	monophyletic		N/A		17.88	match	match	match	match
+Leiodes obesa	6	4	monophyletic		2.05	1.44	14.17	match	match	match	match
+Leiodes picea	3	3	monophyletic		0.48		14.17	match	match	match	match
+Leiodes ruficollis	1	1	monophyletic		N/A		17.59	match	match	match	match
+Leiodes silesiaca	2	2	monophyletic		0.30		14.99	match	match	match	match
+Leiodes triepkii	3	1	monophyletic		0.00		17.02	match	match	match	match
+Leiopus linnei	2	1	monophyletic		0.00		12.75	match	match	match	match
+Leiopus nebulosus	4	2	monophyletic		0.15		12.75	match	match	match	match
+Leistus ferrugineus	3	1	monophyletic		0.00		5.98	match	match	match	match
+Leistus terminatus	1	1	monophyletic		N/A		5.98	match	match	match	match
+Leptacinus formicetorum	2	1	paraphyletic	Leptacinus intermedius	0.00		0.00	merge	merge	merge	merge
+Leptacinus intermedius	3	2	monophyletic		0.15		0.00	merge	merge	merge	merge
+Leptura maculata	2	2	monophyletic		0.32		13.77	match	match	match	match
+Leptura melanura	6	4	monophyletic		0.96		17.50	match	match	split	match
+Leptura nigra	2	2	monophyletic		0.16		16.66	match	match	match	match
+Leptura nigripes	1	1	monophyletic		N/A		16.43	match	match	match	match
+Leptura quadrifasciata	7	3	monophyletic		0.48		14.51	match	match	match	match
+Lepturobosca virens	3	3	monophyletic		0.46		17.42	match	match	match	match
+Leptusa fumida	1	1	monophyletic		N/A		13.63	match	match	match	match
+Lesteva monticola	2	1	monophyletic		0.00		14.65	match	match	match	match
+Licinus depressus	2	1	monophyletic		0.00		10.68	match	match	match	match
+Lilioceris lilii	4	1	monophyletic		0.00		16.44	match	match	match	match
+Lilioceris merdigera	6	5	monophyletic		1.62	1.39	16.44	match	match	match	match
+Limnius volckmari	1	1	monophyletic		N/A		19.03	match	match	match	match
+Limnobaris pilistriata	4	4	monophyletic		0.92		11.29	match	match	match	match
+Limnobaris t-album	4	2	monophyletic		2.49	2.49	11.29	match	split	match	match
+Limonius minutus	3	3	monophyletic		0.30		15.85	match	match	match	match
+Liogluta alpestris	2	1	monophyletic		0.00		6.66	match	match	match	match
+Liogluta granigera	2	1	monophyletic		0.00		6.66	match	match	match	match
+Liogluta micans	4	3	monophyletic		0.30		6.72	match	match	match	match
+Liotrichus affinis	2	1	monophyletic		0.00		17.86	match	match	match	match
+Litargus connexus	4	2	monophyletic		1.07		13.82	match	match	match	match
+Lithocharis nigriceps	4	3	monophyletic		0.92		13.63	match	match	match	match
+Lixus iridis	3	1	monophyletic		0.16		20.41	match	match	match	match
+Lochmaea caprea	4	2	paraphyletic	Lochmaea suturalis	0.46		0.00	merge	merge	merge	merge
+Lochmaea suturalis	2	2	paraphyletic	Lochmaea caprea	0.32		0.00	merge	merge	merge	merge
+Lomechusoides wellenii	2	2	monophyletic		0.31		12.42	match	match	match	match
+Longitarsus brunneus	4	2	monophyletic		0.15		12.63	match	match	match	match
+Longitarsus exsoletus	2	2	monophyletic		0.30		13.17	match	match	match	match
+Longitarsus holsaticus	1	1	monophyletic		N/A		10.75	match	match	match	match
+Longitarsus lewisii	3	3	monophyletic		0.15		11.70	match	match	match	match
+Longitarsus longiseta	3	2	monophyletic		0.33		15.06	match	match	match	match
+Longitarsus luridus	5	3	monophyletic		0.30		10.66	match	match	match	match
+Longitarsus melanocephalus	6	1	monophyletic		0.19		0.00	merge	merge	merge	merge
+Longitarsus nigerrimus	2	2	monophyletic		0.15		13.72	match	match	match	match
+Longitarsus parvulus	1	1	monophyletic		N/A		11.43	match	match	match	match
+Longitarsus reichei	1	1	monophyletic		N/A		0.00	merge	merge	merge	merge
+Longitarsus rubiginosus	1	1	monophyletic		N/A		12.06	match	match	match	match
+Longitarsus succineus	3	1	monophyletic		0.00		10.66	match	match	match	match
+Longitarsus tabidus	1	1	monophyletic		N/A		11.43	match	match	match	match
+Lordithon bimaculatus	2	1	monophyletic		0.00		14.02	match	match	match	match
+Lordithon lunulatus	4	4	monophyletic		0.77		14.31	match	match	match	match
+Lordithon thoracicus	4	3	monophyletic		0.30		14.04	match	match	match	match
+Loricera pilicornis	3	2	monophyletic		0.30		13.45	match	match	match	match
+Luperus flavipes	3	2	monophyletic		0.16		18.04	match	match	match	match
+Lygistopterus sanguineus	4	2	monophyletic		0.15		17.61	match	match	match	match
+Lypoglossa lateralis	5	2	monophyletic		0.30		11.65	match	match	match	match
+Lyprocorrhe anceps	2	1	monophyletic		0.00		15.49	match	match	match	match
+Lythraria salicariae	5	3	monophyletic		0.32		15.92	match	match	match	match
+Lytta vesicatoria	1	1	monophyletic		N/A		18.91	match	match	match	match
+Macroplea appendiculata	2	2	monophyletic		0.15		5.49	merge	match	match	match
+Macroplea mutica	1	1	monophyletic		N/A		5.49	merge	match	match	match
+Magdalis carbonaria	5	4	monophyletic		0.32		14.65	match	match	match	match
+Magdalis cerasi	1	1	monophyletic		N/A		14.29	match	match	match	match
+Magdalis duplicata	2	2	monophyletic		0.15		4.77	merge	match	match	match
+Magdalis frontalis	1	1	monophyletic		N/A		4.77	merge	match	match	match
+Magdalis ruficornis	1	1	monophyletic		N/A		14.05	match	match	match	match
+Malachius bipustulatus	1	1	monophyletic		N/A		12.11	match	match	match	match
+Malthinus biguttatus	2	2	monophyletic		0.48		14.87	match	match	match	match
+Malthinus facialis	2	1	monophyletic		0.00		15.55	match	match	match	match
+Malthinus flaveolus	2	2	monophyletic		0.15		15.01	match	match	match	match
+Malthinus frontalis	1	1	monophyletic		N/A		14.56	match	match	match	match
+Malthodes brevicollis	4	2	monophyletic		0.15		15.96	match	match	match	match
+Malthodes fibulatus	1	1	monophyletic		N/A		12.16	match	match	match	match
+Malthodes flavoguttatus	1	1	monophyletic		N/A		17.18	match	match	match	match
+Malthodes fuscus	4	2	monophyletic		1.08		17.41	match	match	match	match
+Malthodes guttifer	3	1	monophyletic		0.00		13.19	match	match	match	match
+Malthodes marginatus	1	1	monophyletic		N/A		14.96	match	match	match	match
+Malthodes minimus	2	2	monophyletic		0.15		16.50	match	match	match	match
+Malthodes misellus	6	2	monophyletic		0.16		12.16	match	match	match	match
+Malthodes mysticus	1	1	monophyletic		N/A		13.19	match	match	match	match
+Malthodes pumilus	2	2	monophyletic		0.30		9.35	match	match	match	match
+Malthodes spathifer	2	2	monophyletic		0.15		9.35	match	match	match	match
+Mannerheimia arctica	3	3	monophyletic		0.30		15.37	match	match	match	match
+Mantura chrysanthemi	1	1	monophyletic		N/A		13.20	match	match	match	match
+Margarinotus striola	2	1	monophyletic		0.00		20.59	match	match	match	match
+Mecinus pascuorum	5	2	monophyletic		0.30		20.20	match	match	match	match
+Megarthrus denticollis	2	1	monophyletic		0.00		15.90	match	match	match	match
+Megarthrus depressus	4	2	monophyletic		0.17		13.36	match	match	match	match
+Megarthrus nitidulus	2	2	monophyletic		0.15		12.09	match	match	match	match
+Megarthrus prosseni	2	2	monophyletic		0.64		12.09	match	match	match	match
+Megasternum concinnum	4	4	monophyletic		11.02	10.84	13.20	split	split	split	split
+Melandrya dubia	2	2	monophyletic		0.15		14.92	match	match	match	match
+Melanimon tibialis	5	4	monophyletic		2.96	2.58	14.45	match	split	split	split
+Melanophila acuminata	3	3	monophyletic		2.33	2.01	15.70	match	match	match	match
+Melanophthalma transversalis	2	2	monophyletic		0.15		13.32	match	match	match	match
+Melanotus castanipes	4	2	monophyletic		0.30		8.75	match	match	match	match
+Melanotus villosus	1	1	monophyletic		N/A		8.75	match	match	match	match
+Melasis buprestoides	2	1	monophyletic		0.00		20.59	match	match	match	match
+Meligethes aeneus	12	7	monophyletic		2.33	1.45	12.81	match	split	match	match
+Meligethes carinulatus	6	3	monophyletic		0.67		15.50	match	match	match	match
+Meligethes denticulatus	2	2	monophyletic		2.32	2.32	13.12	match	match	split	match
+Meligethes difficilis	7	4	monophyletic		3.45	3.28	12.41	split	split	split	split
+Meligethes exilis	2	2	monophyletic		0.15		10.06	match	match	match	match
+Meligethes haemorrhoidalis	1	1	monophyletic		N/A		15.87	match	match	match	match
+Meligethes lugubris	3	3	monophyletic		0.34		10.06	match	match	match	match
+Meligethes matronalis	4	1	monophyletic		0.00		10.53	match	match	match	match
+Meligethes morosus	2	1	monophyletic		0.00		13.41	match	match	match	match
+Meligethes ochropus	3	2	monophyletic		0.15		12.41	match	match	match	match
+Meligethes ovatus	2	1	monophyletic		0.00		13.41	match	match	match	match
+Meligethes ruficornis	3	1	monophyletic		0.00		14.24	match	match	match	match
+Meligethes sp.	1	1	monophyletic		N/A		15.03	match	match	match	match
+Meligethes subaeneus	3	1	monophyletic		0.00		10.53	match	match	match	match
+Meligethes subrugosus	1	1	monophyletic		N/A		15.12	match	match	match	match
+Meligethes tristis	2	1	monophyletic		0.00		17.62	match	match	match	match
+Meloe violaceus	2	2	monophyletic		0.46		19.65	match	match	match	match
+Melolontha hippocastani	5	3	monophyletic		0.46		18.74	match	match	match	match
+Meotica exilis	1	1	monophyletic		N/A		8.57	match	match	match	match
+Meotica pallens	2	1	monophyletic		0.00		8.57	match	match	match	match
+Mesosa myops	2	1	monophyletic		0.00		17.40	match	match	match	match
+Metoecus paradoxus	3	3	monophyletic		1.07		15.68	match	match	match	match
+Miarus campanulae	3	3	monophyletic		0.32		16.41	match	match	match	match
+Micrambe abietis	1	1	monophyletic		N/A		17.81	match	match	match	match
+Micrambe bimaculata	1	1	monophyletic		N/A		16.84	match	match	match	match
+Microcara testacea	8	6	monophyletic		0.46		14.76	match	match	match	match
+Microlestes minutulus	4	4	monophyletic		0.61		8.58	match	match	match	match
+Migneauxia lederi	3	2	monophyletic		0.76		11.48	match	match	match	match
+Miscodera arctica	1	1	monophyletic		N/A		12.91	match	match	match	match
+Mniusa incrassata	1	1	monophyletic		N/A		11.30	match	match	match	match
+Molorchus minor	5	1	monophyletic		0.00		20.41	match	match	match	match
+Monochamus galloprovincialis	3	2	monophyletic		0.35		2.23	merge	match	match	match
+Monochamus sutor	6	5	monophyletic		1.62	1.12	2.76	merge	match	match	match
+Monochamus urussovii	3	3	monophyletic		0.30		2.23	merge	match	split	match
+Monotoma angusticollis	2	2	monophyletic		0.30		16.35	match	match	match	match
+Monotoma bicolor	1	1	monophyletic		N/A		14.78	match	match	match	match
+Monotoma picipes	1	1	monophyletic		N/A		14.80	match	match	match	match
+Mordella aculeata	2	1	monophyletic		0.00		22.88	match	match	match	match
+Mordella holomelaena	2	1	monophyletic		0.00		22.50	match	match	match	match
+Mordellistena humeralis	1	1	monophyletic		N/A		24.08	match	match	match	match
+Mordellistena sp.1	2	2	monophyletic		0.46		13.63	match	match	match	match
+Mordellistena sp.2	1	1	monophyletic		N/A		18.77	match	match	match	match
+Mordellistena sp.3	1	1	monophyletic		N/A		11.60	match	match	match	match
+Mordellistena sp.4	1	1	monophyletic		N/A		11.60	match	match	match	match
+Mordellochroa abdominalis	4	1	monophyletic		0.00		17.23	match	match	match	match
+Morychus aeneus	2	2	monophyletic		0.15		17.59	match	match	match	match
+Mycetaea subterranea	2	1	monophyletic		0.00		14.25	match	match	match	match
+Mycetochara axillaris	6	4	monophyletic		0.30		14.92	match	match	match	match
+Mycetochara flavipes	2	2	monophyletic		0.15		16.66	match	match	match	match
+Mycetophagus decempunctatus	2	2	monophyletic		0.46		14.57	match	match	match	match
+Mycetophagus multipunctatus	1	1	monophyletic		N/A		12.99	match	match	match	match
+Mycetophagus piceus	2	2	monophyletic		1.13		12.99	match	match	match	match
+Mycetophagus populi	1	1	monophyletic		N/A		15.51	match	match	match	match
+Mycetoporus altaicus	3	1	monophyletic		0.00		13.21	match	match	match	match
+Mycetoporus boreellus	1	1	monophyletic		N/A		12.25	match	match	match	match
+Mycetoporus clavicornis	2	1	monophyletic		0.00		12.94	match	match	match	match
+Mycetoporus monticola	1	1	monophyletic		N/A		9.13	match	match	match	match
+Mycetoporus tenuis	1	1	monophyletic		N/A		9.13	match	match	match	match
+Mylabris sp.	1	1	monophyletic		N/A		21.04	match	match	match	match
+Myllaena dubia	1	1	monophyletic		N/A		16.86	match	match	match	match
+Myllaena intermedia	3	3	monophyletic		4.26	4.10	14.75	match	split	split	split
+Myllaena minuta	1	1	monophyletic		N/A		15.14	match	match	match	match
+Myrmechixenus subterraneus	1	1	monophyletic		N/A		4.70	merge	match	match	match
+Myrmechixenus vaporariorum	1	1	monophyletic		N/A		4.70	merge	match	match	match
+Myrmecocephalus concinnus	3	2	monophyletic		0.15		15.10	match	match	match	match
+Myrrha octodecimguttata	2	2	monophyletic		2.09	2.09	9.95	match	split	match	split
+Myzia oblongoguttata	2	2	monophyletic		0.46		11.79	match	match	match	match
+Nanophyes marmoratus	4	2	monophyletic		0.15		17.47	match	match	match	match
+Nebria brevicollis	5	2	monophyletic		0.15		12.91	match	match	match	match
+Nebria livida	3	1	monophyletic		0.00		12.99	match	match	match	match
+Nebria nivalis	3	2	monophyletic		0.15		8.24	match	match	match	match
+Nebria rufescens	1	1	monophyletic		N/A		8.24	match	match	match	match
+Nebrioporus depressus	5	4	monophyletic		0.80		12.74	match	match	match	match
+Necrobia violacea	5	5	monophyletic		1.38		11.96	match	match	match	match
+Necrodes littoralis	3	3	monophyletic		0.92		12.19	match	match	match	match
+Necydalis major	4	4	monophyletic		0.31		17.43	match	match	match	match
+Nedyus quadrimaculatus	6	6	monophyletic		3.30	1.71	17.44	match	match	match	match
+Negastrius sp.	2	1	monophyletic		0.00		17.42	match	match	match	match
+Nehemitropia lividipennis	1	1	monophyletic		N/A		15.14	match	match	match	match
+Neocoenorrhinus aequatus	2	1	monophyletic		0.00		16.81	match	match	match	match
+Neocoenorrhinus germanicus	5	3	monophyletic		1.38		17.80	match	match	match	match
+Neocrepidodera femorata	1	1	monophyletic		N/A		16.82	match	match	match	match
+Neocrepidodera ferruginea	4	2	monophyletic		0.15		16.28	match	match	match	match
+Neocrepidodera motschulskii	1	1	monophyletic		N/A		17.79	match	match	match	match
+Neocrepidodera nigritula	3	1	monophyletic		0.00		15.32	match	match	match	match
+Neocrepidodera sp.1	1	1	monophyletic		N/A		16.89	match	match	match	match
+Nephus redtenbacheri	1	1	monophyletic		N/A		18.39	match	match	match	match
+Nevraphes angulatus	1	1	monophyletic		N/A		17.97	match	match	match	match
+Nicrophorus investigator	2	2	monophyletic		0.46		10.77	match	match	match	match
+Nicrophorus vespilloides	3	3	monophyletic		1.23		10.77	match	match	match	match
+Nitidula bipunctata	1	1	monophyletic		N/A		12.78	match	match	match	match
+Nitidula rufipes	4	2	monophyletic		0.15		12.78	match	match	match	match
+Nivellia sanguinosa	1	1	monophyletic		N/A		14.92	match	match	match	match
+Notaris acridulus	6	3	monophyletic		0.61		12.21	match	match	match	match
+Notaris aethiops	1	1	monophyletic		N/A		21.66	match	match	match	match
+Notaris scirpi	2	2	monophyletic		0.16		12.21	match	match	match	match
+Noterus clavicornis	2	1	monophyletic		0.00		11.49	match	match	match	match
+Noterus crassicornis	2	2	monophyletic		0.15		11.49	match	match	match	match
+Notiophilus aestuans	1	1	monophyletic		N/A		8.58	match	match	match	match
+Notiophilus aquaticus	6	4	monophyletic		0.46		8.58	match	match	match	match
+Notiophilus biguttatus	2	1	monophyletic		0.00		10.51	match	match	match	match
+Notiophilus germinyi	3	3	monophyletic		3.76	3.76	10.03	split	split	split	split
+Notiophilus palustris	3	2	monophyletic		0.15		9.00	match	match	match	match
+Notothecta flavipes	1	1	monophyletic		N/A		5.08	match	match	match	match
+Notoxus monoceros	7	3	monophyletic		0.30		16.24	match	match	match	match
+Nudobius lentus	4	2	monophyletic		0.15		13.30	match	match	match	match
+Oberea oculata	2	2	monophyletic		0.15		13.16	match	match	match	match
+Ocalea picata	7	3	monophyletic		0.30		11.30	match	match	match	match
+Ochthebius marinus	1	1	monophyletic		N/A		13.27	match	match	match	match
+Ochthebius minimus	7	4	monophyletic		0.48		13.81	match	match	match	match
+Ochthephilum collare	2	2	monophyletic		0.46		7.78	match	match	match	match
+Ochthephilum fracticorne	4	4	monophyletic		2.30	1.76	7.78	match	match	match	match
+Ocypus fuscatus	1	1	monophyletic		N/A		12.24	match	match	match	match
+Ocypus nitens	1	1	monophyletic		N/A		12.24	match	match	match	match
+Ocypus ophthalmicus	3	3	monophyletic		0.46		13.47	match	match	match	match
+Ocyusa maura	3	1	monophyletic		0.00		8.55	match	match	match	match
+Ocyusa picina	2	2	monophyletic		0.30		9.22	match	match	match	match
+Odacantha melanura	3	3	monophyletic		1.42	1.08	12.91	match	match	match	match
+Oedemera croceicollis	3	1	monophyletic		0.00		17.32	match	match	match	match
+Oedemera femorata	3	2	monophyletic		1.38		12.58	match	match	match	match
+Oedemera lurida	5	2	monophyletic		0.15		9.08	match	match	match	match
+Oedemera subrobusta	5	2	monophyletic		0.31		8.55	match	match	match	match
+Oedemera virescens	3	2	monophyletic		0.76		8.55	match	match	match	match
+Oiceoptoma thoracicum	2	2	monophyletic		0.15		14.25	match	match	match	match
+Olibrus aeneus	2	1	monophyletic		0.00		2.60	mixture	match	match	mixture
+Olibrus bimaculatus	2	2	monophyletic		0.46		10.84	match	match	match	match
+Olibrus millefolii	4	4	paraphyletic	Olibrus aeneus	7.20	6.43	2.60	mixture	split	split	mixture
+Olibrus norvegicus	2	1	monophyletic		0.00		10.84	match	match	match	match
+Oligota pusillima	1	1	monophyletic		N/A		14.00	match	match	match	match
+Oligota sp.	1	1	monophyletic		N/A		14.00	match	match	match	match
+Olisthaerus megacephalus	1	1	monophyletic		N/A		13.30	match	match	match	match
+Olisthopus rotundatus	3	2	monophyletic		0.15		9.03	match	match	match	match
+Olophrum assimile	5	4	monophyletic		0.46		12.93	match	match	match	match
+Olophrum boreale	3	3	monophyletic		0.92		8.56	match	match	match	match
+Olophrum consimile	4	4	monophyletic		0.92		7.88	match	match	match	match
+Olophrum fuscum	1	1	monophyletic		N/A		7.88	match	match	match	match
+Olophrum rotundicolle	4	3	monophyletic		0.46		8.80	match	match	match	match
+Omalium littorale	3	2	monophyletic		0.15		8.71	match	match	match	match
+Omalium riparium	3	2	monophyletic		0.46		8.73	match	match	match	match
+Omalium rivulare	7	1	monophyletic		0.00		9.58	match	match	match	match
+Omalium rugatum	3	3	monophyletic		1.07		10.44	match	match	match	match
+Omalium septentrionis	2	1	monophyletic		0.00		8.71	match	match	match	match
+Omalium strigicolle	1	1	monophyletic		N/A		8.71	match	match	match	match
+Omonadus floralis	2	2	monophyletic		2.48	2.48	13.11	match	match	split	split
+Omosita colon	5	1	monophyletic		0.00		15.12	match	match	match	match
+Ontholestes murinus	2	1	monophyletic		0.00		14.83	match	match	match	match
+Oodes helopioides	4	4	monophyletic		0.92		11.84	match	match	match	match
+Opatrum riparium	2	2	paraphyletic	Opatrum sabulosum	2.65	2.65	0.18	merge	mixture	merge	merge
+Opatrum sabulosum	1	1	monophyletic		N/A		0.18	merge	mixture	merge	merge
+Ophonus rufibarbis	4	3	monophyletic		0.30		5.03	match	match	match	match
+Oplosia cinerea	3	2	monophyletic		0.15		15.72	match	match	match	match
+Orchesia fasciata	2	2	monophyletic		0.46		12.39	match	match	match	match
+Orchesia micans	1	1	monophyletic		N/A		12.39	match	match	match	match
+Orectochilus villosus	1	1	monophyletic		N/A		13.28	match	match	match	match
+Oreodytes alpinus	5	4	monophyletic		0.46		13.56	match	match	match	match
+Oreodytes septentrionalis	2	2	monophyletic		0.32		13.38	match	match	match	match
+Orithales serraticornis	4	2	monophyletic		0.30		18.42	match	match	match	match
+Orthocis alni	4	1	monophyletic		0.00		20.38	match	match	match	match
+Orthoperus corticalis	1	1	monophyletic		N/A		14.24	match	match	match	match
+Orthoperus rogeri	1	1	monophyletic		N/A		14.24	match	match	match	match
+Orthotomicus laricis	1	1	monophyletic		N/A		20.11	match	match	match	match
+Orthotomicus suturalis	1	1	monophyletic		N/A		20.16	match	match	match	match
+Oryctes nasicornis	2	1	monophyletic		0.00		20.15	match	match	match	match
+Oryzaephilus surinamensis	4	1	monophyletic		0.00		21.37	match	match	match	match
+Ostoma ferruginea	1	1	monophyletic		N/A		17.72	match	match	match	match
+Othius angustus	1	1	monophyletic		N/A		13.63	match	match	match	match
+Othius lapidicola	1	1	monophyletic		N/A		13.76	match	match	match	match
+Othius punctulatus	3	2	monophyletic		0.15		15.17	match	match	match	match
+Othius subuliformis	1	1	monophyletic		N/A		14.73	match	match	match	match
+Otiorhynchus arcticus	2	1	monophyletic		0.00		18.71	match	match	match	match
+Otiorhynchus ligustici	3	2	monophyletic		0.15		18.15	match	match	match	match
+Otiorhynchus nodosus	2	1	monophyletic		0.00		16.86	match	match	match	match
+Otiorhynchus ovatus	3	3	monophyletic		2.82	2.03	19.82	match	split	match	split
+Otiorhynchus porcatus	1	1	monophyletic		N/A		17.46	match	match	match	match
+Otiorhynchus raucus	1	1	monophyletic		N/A		19.16	match	match	match	match
+Otiorhynchus scaber	2	1	monophyletic		0.00		20.46	match	match	match	match
+Otiorhynchus singularis	2	1	monophyletic		0.00		20.46	match	match	match	match
+Oulema erichsonii	1	1	monophyletic		N/A		0.92	mixture	mixture	mixture	mixture
+Oulema melanopus	6	4	paraphyletic	Oulema erichsonii	9.22	8.65	0.92	mixture	mixture	mixture	mixture
+Oulema obscura	4	3	monophyletic		0.61		17.47	match	match	match	match
+Oulimnius tuberculatus	2	1	monophyletic		0.00		18.10	match	match	match	match
+Oxymirus cursor	2	1	monophyletic		0.00		15.86	match	match	match	match
+Oxyomus sylvestris	2	1	monophyletic		0.00		14.62	match	match	match	match
+Oxypoda acuminata	2	1	monophyletic		0.00		8.55	match	match	match	match
+Oxypoda advena	1	1	monophyletic		N/A		9.22	match	match	match	match
+Oxypoda annularis	3	2	monophyletic		1.23		5.88	match	match	match	match
+Oxypoda brevicornis	3	1	monophyletic		0.00		10.26	match	match	match	match
+Oxypoda elongatula	1	1	monophyletic		N/A		8.28	match	match	match	match
+Oxypoda flavicornis	1	1	monophyletic		N/A		5.88	match	match	match	match
+Oxypoda funebris	4	2	monophyletic		0.15		5.53	match	match	match	match
+Oxypoda islandica	1	1	monophyletic		N/A		9.41	match	match	match	match
+Oxypoda nigricornis	2	2	monophyletic		0.17		10.61	match	match	match	match
+Oxypoda opaca	5	3	monophyletic		0.77		13.05	match	match	match	match
+Oxypoda procerula	2	1	monophyletic		0.00		5.53	match	match	match	match
+Oxypoda skalitzkyi	1	1	monophyletic		N/A		8.02	match	match	match	match
+Oxypoda soror	1	1	monophyletic		N/A		6.71	match	match	match	match
+Oxypoda spectabilis	1	1	monophyletic		N/A		8.55	match	match	match	match
+Oxypoda strandi	4	1	monophyletic		0.00		6.71	match	match	match	match
+Oxypoda togata	2	1	monophyletic		0.00		14.37	match	match	match	match
+Oxyporus rufus	1	1	monophyletic		N/A		14.90	match	match	match	match
+Oxypselaphus obscurus	4	2	monophyletic		0.15		10.07	match	match	match	match
+Oxytelus laqueatus	6	2	monophyletic		3.76	3.72	17.60	split	split	split	split
+Oxytelus sculptus	2	2	monophyletic		0.61		14.59	match	match	match	match
+Oxythyrea funesta	5	1	monophyletic		0.00		13.78	match	match	match	match
+Pachnida nigella	1	1	monophyletic		N/A		14.48	match	match	match	match
+Pachybrachis hieroglyphicus	3	1	monophyletic		0.00		22.89	match	match	match	match
+Pachyta lamed	2	1	monophyletic		0.00		7.59	match	match	match	match
+Pachyta quadrimaculata	5	5	monophyletic		0.92		7.59	match	match	match	match
+Paederus fuscipes	3	2	monophyletic		0.46		12.69	match	match	match	match
+Paederus riparius	3	3	monophyletic		0.46		12.69	match	match	match	match
+Palorus depressus	1	1	monophyletic		N/A		15.55	match	match	match	match
+Panagaeus cruxmajor	2	2	monophyletic		0.15		11.83	match	match	match	match
+Paradromius linearis	6	3	monophyletic		0.92		11.13	match	match	match	match
+Paranchus albipes	1	1	monophyletic		N/A		9.05	match	match	match	match
+Patrobus assimilis	4	4	monophyletic		1.07		10.48	match	match	match	match
+Patrobus atrorufus	3	2	monophyletic		0.30		8.04	match	match	match	match
+Patrobus australis	1	1	monophyletic		N/A		0.48	merge	merge	merge	merge
+Patrobus septentrionis	5	4	paraphyletic	Patrobus australis	0.92		0.48	merge	merge	merge	merge
+Pediacus fuscus	1	1	monophyletic		N/A		15.48	match	match	match	match
+Pedostrangalia pubescens	3	1	monophyletic		0.00		14.00	match	match	match	match
+Pelenomus canaliculatus	1	1	monophyletic		N/A		16.31	match	match	match	match
+Pelenomus quadrituberculatus	3	3	monophyletic		1.38		17.01	match	match	match	match
+Pelophila borealis	1	1	monophyletic		N/A		12.60	match	match	match	match
+Peltis grossa	3	2	monophyletic		0.16		17.01	match	match	match	match
+Pentaphyllus testaceus	1	1	monophyletic		N/A		20.66	match	match	match	match
+Phaedon cochleariae	3	2	monophyletic		0.15		14.18	match	match	match	match
+Phaenops cyanea	5	2	monophyletic		0.30		14.76	match	match	match	match
+Phalacrus caricis	3	1	monophyletic		0.00		18.58	match	match	match	match
+Pheletes aeneoniger	4	1	monophyletic		0.00		16.42	match	match	match	match
+Philonthus addendus	2	2	monophyletic		0.30		13.54	match	match	match	match
+Philonthus albipes	6	3	monophyletic		3.76	3.60	15.29	split	split	split	split
+Philonthus atratus	1	1	monophyletic		N/A		5.43	merge	match	match	match
+Philonthus carbonarius	3	1	monophyletic		0.00		5.94	match	match	match	match
+Philonthus cognatus	3	2	monophyletic		1.28		14.13	match	match	match	match
+Philonthus debilis	5	3	monophyletic		0.46		16.15	match	match	match	match
+Philonthus decorus	2	2	monophyletic		0.16		11.79	match	match	match	match
+Philonthus discoideus	3	1	monophyletic		0.00		15.35	match	match	match	match
+Philonthus marginatus	1	1	monophyletic		N/A		20.77	match	match	match	match
+Philonthus micans	3	2	monophyletic		0.15		6.55	match	match	match	match
+Philonthus micantoides	2	1	monophyletic		0.00		3.68	match	match	match	match
+Philonthus nigrita	4	2	monophyletic		0.15		15.94	match	match	match	match
+Philonthus nitidus	2	2	monophyletic		0.15		13.31	match	match	match	match
+Philonthus politus	4	1	monophyletic		0.00		13.31	match	match	match	match
+Philonthus quisquiliarius	9	4	monophyletic		3.06	2.63	14.88	split	split	split	split
+Philonthus rectangulus	3	3	monophyletic		0.30		15.20	match	match	match	match
+Philonthus rotundicollis	1	1	monophyletic		N/A		15.53	match	match	match	match
+Philonthus rubripennis	4	1	monophyletic		0.00		3.68	match	match	match	match
+Philonthus sanguinolentus	1	1	monophyletic		N/A		15.88	match	match	match	match
+Philonthus splendens	2	1	monophyletic		0.00		11.79	match	match	match	match
+Philonthus subvirescens	3	2	monophyletic		0.15		5.43	merge	match	match	match
+Philonthus tenuicornis	5	1	monophyletic		0.00		13.61	match	match	match	match
+Philonthus umbratilis	2	1	monophyletic		0.00		18.48	match	match	match	match
+Philonthus varians	4	1	monophyletic		0.00		16.13	match	match	match	match
+Philopedon plagiatum	7	3	monophyletic		1.28		15.25	match	match	match	match
+Philorhizus notatus	5	2	monophyletic		0.15		5.58	match	match	match	match
+Philorhizus sigma	4	2	monophyletic		0.61		5.58	match	match	match	match
+Phloeonomus punctipennis	1	1	monophyletic		N/A		15.68	match	match	match	match
+Phloeopora concolor	1	1	monophyletic		N/A		12.37	match	match	match	match
+Phloeostiba plana	2	1	monophyletic		0.00		15.90	match	match	match	match
+Phloeotribus spinulosus	1	1	monophyletic		N/A		17.06	match	match	match	match
+Phosphuga atrata	4	2	monophyletic		1.38		11.70	match	match	match	match
+Phratora atrovirens	1	1	monophyletic		N/A		9.22	match	match	match	match
+Phratora laticollis	5	3	monophyletic		0.30		11.79	match	match	match	match
+Phratora polaris	6	3	monophyletic		1.08		9.22	match	match	match	match
+Phratora vitellinae	5	4	monophyletic		0.61		12.01	match	match	match	match
+Phratora vulgatissima	1	1	monophyletic		N/A		9.69	match	match	match	match
+Phyllobius argentatus	7	4	monophyletic		1.70	1.07	15.60	match	match	match	match
+Phyllobius glaucus	1	1	monophyletic		N/A		9.34	match	match	match	match
+Phyllobius maculicornis	3	3	monophyletic		2.80	2.80	15.60	match	split	match	match
+Phyllobius oblongus	1	1	monophyletic		N/A		16.91	match	match	match	match
+Phyllobius pomaceus	3	2	monophyletic		0.79		9.34	match	match	match	match
+Phyllobius pyri	4	2	monophyletic		0.32		13.46	match	match	match	match
+Phyllobius virideaeris	1	1	monophyletic		N/A		15.36	match	match	match	match
+Phyllobius viridicollis	1	1	monophyletic		N/A		13.46	match	match	match	match
+Phyllobrotica quadrimaculata	2	2	monophyletic		0.16		16.24	match	match	match	match
+Phyllodrepa clavigera	1	1	monophyletic		N/A		13.47	match	match	match	match
+Phyllodrepa linearis	1	1	monophyletic		N/A		12.73	match	match	match	match
+Phyllodrepa melanocephala	2	2	monophyletic		2.80	2.80	16.62	match	split	split	split
+Phyllodrepa sahlbergi	1	1	monophyletic		N/A		13.50	match	match	match	match
+Phyllopertha horticola	3	1	monophyletic		0.00		15.46	match	match	match	match
+Phyllotreta armoraciae	4	2	monophyletic		1.70	1.70	14.45	match	split	match	split
+Phyllotreta atra	2	2	monophyletic		0.30		10.21	match	match	match	match
+Phyllotreta nigripes	6	2	monophyletic		0.15		16.30	match	match	match	match
+Phyllotreta striolata	3	3	monophyletic		1.39		15.22	match	match	match	match
+Phyllotreta tetrastigma	1	1	monophyletic		N/A		16.80	match	match	match	match
+Phyllotreta undulata	4	3	monophyletic		0.77		16.17	match	match	match	match
+Phyllotreta vittula	5	2	monophyletic		0.16		10.21	match	match	match	match
+Phymatodes testaceus	5	3	monophyletic		0.46		17.99	match	match	match	match
+Phytobius leucogaster	1	1	monophyletic		N/A		16.31	match	match	match	match
+Phytoecia nigricornis	1	1	monophyletic		N/A		13.16	match	match	match	match
+Pissodes harcyniae	2	2	monophyletic		0.30		13.65	match	match	match	match
+Pissodes pini	3	3	monophyletic		2.09	1.86	13.90	match	match	match	match
+Pissodes piniphilus	1	1	monophyletic		N/A		13.65	match	match	match	match
+Pissodes validirostris	5	3	monophyletic		3.49	3.30	13.90	split	split	match	split
+Pityogenes bidentatus	3	3	monophyletic		1.54	1.08	17.08	match	match	match	match
+Pityogenes chalcographus	2	2	monophyletic		2.17	2.17	17.08	match	split	match	match
+Pityophagus ferrugineus	3	1	monophyletic		0.00		15.65	match	match	match	match
+Pityophthorus glabratus	1	1	monophyletic		N/A		19.78	match	match	match	match
+Pityophthorus micrographus	2	2	monophyletic		1.23		19.43	match	match	match	match
+Placusa depressa	1	1	monophyletic		N/A		15.18	match	match	match	match
+Placusa incompleta	1	1	monophyletic		N/A		6.90	match	match	match	match
+Placusa tachyporoides	2	1	monophyletic		0.00		6.90	match	match	match	match
+Plagiodera versicolora	3	1	monophyletic		0.00		16.80	match	match	match	match
+Plagionotus arcuatus	3	2	monophyletic		0.16		3.59	merge	match	merge	match
+Plagionotus detritus	1	1	monophyletic		N/A		3.59	merge	match	merge	match
+Plagiosterna aenea	2	2	monophyletic		0.30		15.17	match	match	match	match
+Platambus maculatus	3	3	monophyletic		1.23		14.77	match	match	match	split
+Plateumaris braccata	1	1	monophyletic		N/A		15.45	match	match	match	match
+Plateumaris discolor	7	5	paraphyletic	Plateumaris sericea	3.62	2.06	0.61	merge	mixture	mixture	mixture
+Plateumaris sericea	1	1	monophyletic		N/A		0.61	merge	mixture	mixture	mixture
+Plateumaris weisei	2	2	monophyletic		0.15		16.59	match	match	match	match
+Platycerus caprea	4	2	monophyletic		0.15		17.05	match	match	match	match
+Platycis minuta	1	1	monophyletic		N/A		18.34	match	match	match	match
+Platydracus fulvipes	3	2	monophyletic		0.15		9.94	match	match	match	match
+Platydracus latebricola	1	1	monophyletic		N/A		9.94	match	match	match	match
+Platynus assimilis	6	2	monophyletic		0.15		9.39	match	match	match	match
+Platynus mannerheimii	3	1	monophyletic		0.00		8.30	match	match	match	match
+Platysoma deplanatum	1	1	monophyletic		N/A		19.49	match	match	match	match
+Platystethus arenarius	2	1	monophyletic		0.00		15.35	match	match	match	match
+Platystethus nodifrons	1	1	monophyletic		N/A		21.34	match	match	match	match
+Platystomos albinus	5	4	monophyletic		0.46		19.04	match	match	match	match
+Plegaderus saucius	2	1	monophyletic		0.00		17.87	match	match	match	match
+Pocadius ferrugineus	2	1	monophyletic		0.00		18.97	match	match	match	match
+Podabrus alpinus	3	1	monophyletic		0.00		10.76	match	match	match	match
+Podabrus flavimanus	2	1	monophyletic		0.00		7.20	match	match	match	match
+Podabrus lapponicus	4	1	monophyletic		0.00		7.20	match	match	match	match
+Podistra schoenherri	2	1	monophyletic		0.00		10.76	match	match	match	match
+Poecilium alni	3	2	monophyletic		0.16		17.12	match	match	match	match
+Poecilonota variolosa	3	1	monophyletic		0.00		16.47	match	match	match	match
+Poecilus cupreus	5	1	monophyletic		0.00		4.87	match	match	match	match
+Poecilus lepidus	3	1	monophyletic		0.00		7.17	match	match	match	match
+Poecilus versicolor	7	3	monophyletic		0.92		4.87	match	match	match	match
+Pogonocherus decoratus	4	1	monophyletic		0.00		19.39	match	match	match	match
+Pogonocherus hispidus	1	1	monophyletic		N/A		18.05	match	match	match	match
+Polydrusus cervinus	4	4	monophyletic		2.01	1.54	12.17	match	match	match	match
+Polydrusus fulvicornis	5	4	monophyletic		0.76		14.86	match	match	match	match
+Polydrusus mollis	4	4	monophyletic		0.61		18.51	match	match	match	match
+Polydrusus pilosus	4	4	monophyletic		0.46		12.17	match	match	match	match
+Polydrusus tereticollis	3	3	monophyletic		0.46		14.86	match	match	match	match
+Porhydrus lineatus	2	2	monophyletic		0.15		12.58	match	match	match	match
+Prasocuris phellandrii	1	1	monophyletic		N/A		16.49	match	match	match	match
+Pria dulcamarae	5	4	monophyletic		0.47		14.71	match	match	match	match
+Prionus coriarius	1	1	monophyletic		N/A		19.76	match	match	match	match
+Propylea quatuordecimpunctata	6	4	monophyletic		1.08		13.64	match	match	match	match
+Prosternon tessellatum	5	1	monophyletic		0.00		16.33	match	match	match	match
+Protaetia cuprea	3	3	monophyletic		0.46		13.78	match	match	match	match
+Protaetia marmorata	3	1	monophyletic		0.00		12.20	match	match	match	match
+Proteinus brachypterus	5	5	monophyletic		1.70	1.23	13.72	match	match	match	match
+Proteinus laevigatus	1	1	monophyletic		N/A		13.72	match	match	match	match
+Psammodius asper	1	1	monophyletic		N/A		15.36	match	match	match	match
+Psammoecus bipunctatus	3	1	monophyletic		0.00		16.70	match	match	match	match
+Pselaphus heisei	5	3	monophyletic		0.61		14.18	match	match	match	match
+Pseudocistela ceramboides	1	1	monophyletic		N/A		15.62	match	match	match	match
+Pseudovadonia livida	6	2	monophyletic		2.33	2.15	15.56	split	split	match	split
+Psylliodes affinis	14	5	monophyletic		0.46		17.04	match	match	match	match
+Psylliodes crambicola	6	1	monophyletic		0.00		3.28	match	match	match	match
+Psylliodes dulcamarae	5	3	monophyletic		1.95	1.70	15.55	split	match	match	split
+Psylliodes marcidus	2	1	monophyletic		0.00		3.28	match	match	match	match
+Psylliodes napi	13	3	monophyletic		1.28		13.53	match	match	match	match
+Psyllobora vigintiduopunctata	3	3	monophyletic		1.07		13.00	match	match	match	match
+Ptenidium formicetorum	2	2	monophyletic		0.92		12.28	match	match	match	match
+Ptenidium nitidum	3	1	monophyletic		0.00		16.61	match	match	match	match
+Ptenidium punctatum	1	1	monophyletic		N/A		14.05	match	match	match	match
+Ptenidium pusillum	1	1	monophyletic		N/A		12.28	match	match	match	match
+Pteroloma forsstromii	3	2	monophyletic		0.15		12.75	match	match	match	match
+Pterostichus adstrictus	5	2	paraphyletic	Pterostichus oblongopunctatus	0.15		0.00	merge	merge	merge	merge
+Pterostichus aethiops	1	1	monophyletic		N/A		6.25	match	match	match	match
+Pterostichus crenatus	5	3	monophyletic		0.30		9.21	match	match	match	match
+Pterostichus diligens	7	4	monophyletic		0.46		4.22	match	match	match	match
+Pterostichus melanarius	3	3	monophyletic		0.61		6.25	match	match	split	match
+Pterostichus minor	5	4	monophyletic		0.77		5.88	match	match	match	match
+Pterostichus niger	5	2	monophyletic		0.64		10.08	match	match	match	match
+Pterostichus nigrita	4	1	monophyletic		0.15		0.15	merge	merge	merge	merge
+Pterostichus oblongopunctatus	4	1	monophyletic		0.00		0.00	merge	merge	merge	merge
+Pterostichus rhaeticus	2	2	paraphyletic	Pterostichus nigrita	1.70	1.70	1.38	merge	merge	merge	merge
+Pterostichus strenuus	3	3	monophyletic		0.31		4.22	match	match	match	match
+Pteryx suturalis	1	1	monophyletic		N/A		14.22	match	match	match	match
+Ptilinus fuscus	3	2	monophyletic		0.46		17.81	match	match	match	match
+Ptiliola kunzei	2	2	monophyletic		6.20	6.20	13.09	split	split	split	split
+Ptiliolum sahlbergi	2	1	monophyletic		0.00		12.91	match	match	match	match
+Ptilium exaratum	2	2	monophyletic		12.82	12.82	14.57	split	split	split	split
+Ptinus rufipes	3	1	monophyletic		0.00		19.27	match	match	match	match
+Ptinus subpillosus	1	1	monophyletic		N/A		9.92	match	match	match	match
+Ptinus villiger	2	2	monophyletic		0.31		9.92	match	match	match	match
+Purpuricenus kaehleri	1	1	monophyletic		N/A		20.30	match	match	match	match
+Pycnoglypta lurida	2	2	monophyletic		1.23		11.30	match	match	match	match
+Pyrochroa coccinea	1	1	monophyletic		N/A		11.25	match	match	match	match
+Pyrrhalta viburni	4	2	monophyletic		0.15		10.86	match	match	match	match
+Pytho depressus	3	3	monophyletic		0.92		10.11	match	match	match	match
+Pytho kolwensis	3	2	monophyletic		0.15		10.11	match	match	match	match
+Quedius boopoides	6	3	paraphyletic	Quedius fulvicollis	2.17	1.65	1.23	merge	merge	mixture	merge
+Quedius boops	3	3	monophyletic		1.08		10.75	match	match	match	match
+Quedius brevicornis	2	2	monophyletic		0.15		12.79	match	match	match	match
+Quedius brevis	1	1	monophyletic		N/A		12.79	match	match	match	match
+Quedius cinctus	2	2	monophyletic		1.54	1.54	12.42	match	match	match	match
+Quedius cruentus	1	1	monophyletic		N/A		9.11	match	match	match	match
+Quedius curtipennis	1	1	monophyletic		N/A		6.71	match	match	match	match
+Quedius fellmani	5	1	monophyletic		0.00		0.92	merge	merge	merge	merge
+Quedius fuliginosus	3	2	monophyletic		0.16		6.71	match	match	match	match
+Quedius fulvicollis	2	1	monophyletic		0.00		1.23	merge	merge	mixture	merge
+Quedius levicollis	1	1	monophyletic		N/A		8.56	match	match	match	match
+Quedius limbatus	2	2	monophyletic		0.46		11.96	match	match	match	match
+Quedius lundbergi	3	1	monophyletic		0.00		12.59	match	match	match	match
+Quedius maurus	3	1	monophyletic		0.00		6.25	match	match	match	match
+Quedius mesomelinus	2	2	monophyletic		4.18	4.18	6.25	match	split	split	split
+Quedius molochinus	1	1	monophyletic		N/A		13.33	match	match	match	match
+Quedius nitipennis	4	2	monophyletic		0.15		0.92	merge	merge	merge	merge
+Quedius plagiatus	1	1	monophyletic		N/A		13.02	match	match	match	match
+Quedius pseudolimbatus	1	1	monophyletic		N/A		11.96	match	match	match	match
+Quedius scitus	2	1	monophyletic		0.00		10.79	match	match	match	match
+Quedius sp.	1	1	monophyletic		N/A		7.22	match	match	match	match
+Quedius tenellus	1	1	monophyletic		N/A		10.79	match	match	match	match
+Quedius umbrinus	1	1	monophyletic		N/A		14.35	match	match	match	match
+Quedius xanthopus	2	1	monophyletic		0.00		13.23	match	match	match	match
+Rabocerus foveolatus	1	1	monophyletic		N/A		17.03	match	match	match	match
+Rhacopus sahlbergi	1	1	monophyletic		N/A		21.14	match	match	match	match
+Rhagium inquisitor	3	2	monophyletic		0.15		11.14	match	match	match	match
+Rhagium mordax	5	3	monophyletic		0.46		11.14	match	match	match	match
+Rhagium sycophanta	1	1	monophyletic		N/A		14.57	match	match	match	match
+Rhagonycha atra	3	1	monophyletic		0.00		9.22	match	match	match	match
+Rhagonycha elongata	2	2	monophyletic		0.76		9.22	match	match	match	match
+Rhagonycha fulva	3	2	monophyletic		0.16		8.36	match	match	match	match
+Rhagonycha lignosa	5	1	monophyletic		0.00		8.36	match	match	match	match
+Rhagonycha lutea	1	1	monophyletic		N/A		9.75	match	match	match	match
+Rhagonycha nigriventris	5	3	monophyletic		0.46		9.83	match	match	match	match
+Rhagonycha testacea	2	2	monophyletic		1.08		9.83	match	match	match	match
+Rhamphus oxyacanthae	3	2	monophyletic		0.46		14.59	match	match	match	match
+Rhamphus pulicarius	6	2	monophyletic		7.77	6.94	14.59	split	split	split	split
+Rhantus exsoletus	6	4	monophyletic		0.81		6.41	match	match	match	match
+Rhantus frontalis	5	4	monophyletic		0.49		10.53	match	match	match	match
+Rhantus grapii	2	2	monophyletic		1.54	1.54	10.98	match	match	match	match
+Rhantus suturalis	1	1	monophyletic		N/A		9.64	match	match	match	match
+Rhantus suturellus	3	3	monophyletic		6.57	3.62	6.41	split	split	split	split
+Rhinocyllus conicus	2	1	monophyletic		0.00		19.59	match	match	match	match
+Rhinoncus bruchoides	4	4	monophyletic		0.47		12.23	match	match	match	match
+Rhinoncus castor	12	4	monophyletic		0.46		12.23	match	match	match	match
+Rhinoncus inconspectus	2	1	monophyletic		0.00		16.96	match	match	match	match
+Rhinoncus pericarpius	15	7	monophyletic		2.97	2.65	14.46	match	split	match	match
+Rhinoncus perpendicularis	4	1	monophyletic		0.00		16.35	match	match	match	match
+Rhinusa antirrhini	2	2	monophyletic		16.72	16.72	23.23	split	split	split	split
+Rhizophagus bipustulatus	2	2	monophyletic		0.16		16.38	match	match	match	match
+Rhizophagus depressus	1	1	monophyletic		N/A		11.32	match	match	match	match
+Rhizophagus dispar	4	1	monophyletic		0.00		14.20	match	match	match	match
+Rhizophagus fenestralis	2	2	monophyletic		0.81		14.20	match	match	match	match
+Rhizophagus grandis	1	1	monophyletic		N/A		11.32	match	match	match	match
+Rhizophagus picipes	2	2	monophyletic		0.64		14.33	match	match	match	match
+Rhynchaenus iota	2	2	monophyletic		0.15		18.79	match	match	match	match
+Rhynchaenus lonicerae	2	2	monophyletic		1.23		18.80	match	match	match	match
+Rhynchaenus rusci	3	2	monophyletic		3.19	3.12	18.56	match	split	split	split
+Rhynchaenus testaceus	2	2	monophyletic		0.46		18.56	match	match	match	match
+Rhynchites cupreus	4	2	monophyletic		0.15		17.76	match	match	match	match
+Rhyncolus ater	4	2	monophyletic		1.54	1.47	23.11	match	match	match	match
+Ropalodontus strandi	1	1	monophyletic		N/A		19.85	match	match	match	match
+Ropalopus femoratus	1	1	monophyletic		N/A		17.46	match	match	match	match
+Rugilus fragilis	1	1	monophyletic		N/A		11.87	match	match	match	match
+Rugilus orbiculatus	4	3	monophyletic		1.70	1.39	11.87	match	split	match	match
+Rugilus rufipes	5	2	monophyletic		0.15		14.81	match	match	match	match
+Rutidosoma globulus	3	3	monophyletic		1.85	1.85	17.50	match	match	match	match
+Rybaxis laminata	2	2	monophyletic		0.15		0.00	merge	merge	merge	merge
+Rybaxis longicornis	7	2	paraphyletic	Rybaxis laminata	1.23		0.00	merge	merge	merge	merge
+Salpingus planirostris	2	2	monophyletic		0.61		16.24	match	match	match	match
+Salpingus ruficollis	1	1	monophyletic		N/A		18.09	match	match	match	match
+Saperda carcharias	3	2	monophyletic		0.15		14.64	match	match	match	match
+Saperda perforata	10	4	monophyletic		0.61		15.48	match	match	match	match
+Saperda scalaris	10	4	monophyletic		1.08		14.95	match	match	match	match
+Scaphidium quadrimaculatum	5	2	monophyletic		0.49		14.74	match	match	match	match
+Scaphisoma agaricinum	4	1	monophyletic		0.00		14.93	match	match	match	match
+Scaphisoma subalpinum	2	1	monophyletic		0.00		15.50	match	match	match	match
+Scarodytes halensis	2	1	monophyletic		0.00		12.03	match	match	match	match
+Schistoglossa aubei	1	1	monophyletic		N/A		13.02	match	match	match	match
+Schistoglossa curtipennis	2	2	monophyletic		0.17		13.59	match	match	match	match
+Schistoglossa gemina	1	1	monophyletic		N/A		13.69	match	match	match	match
+Schistoglossa viduata	1	1	monophyletic		N/A		13.27	match	match	match	match
+Schizotus pectinicornis	3	1	monophyletic		0.00		11.25	match	match	match	match
+Sciaphilus asperatus	4	4	monophyletic		0.46		18.25	match	match	match	match
+Sciodrepoides alpestris	1	1	monophyletic		N/A		11.31	match	match	match	match
+Sciodrepoides fumatus	1	1	monophyletic		N/A		11.31	match	match	match	match
+Sciodrepoides watsoni	2	2	monophyletic		0.15		15.49	match	match	match	match
+Scolytus intricatus	1	1	monophyletic		N/A		19.89	match	match	match	match
+Scolytus ratzeburgii	2	2	monophyletic		2.23	2.23	21.62	match	match	match	match
+Scopaeus laevigatus	2	2	monophyletic		0.61		17.03	match	match	match	match
+Scraptia fuscula	1	1	monophyletic		N/A		16.23	match	match	match	match
+Scymnus frontalis	1	1	monophyletic		N/A		5.70	match	match	match	match
+Scymnus haemorrhoidalis	3	1	monophyletic		0.00		14.12	match	match	match	match
+Scymnus nigrinus	4	2	monophyletic		0.16		14.81	match	match	match	match
+Scymnus schmidti	1	1	monophyletic		N/A		5.70	match	match	match	match
+Scymnus suturalis	1	1	monophyletic		N/A		15.04	match	match	match	match
+Selatosomus aeneus	2	1	monophyletic		0.00		16.21	match	match	match	match
+Selatosomus cruciatus	3	1	monophyletic		0.00		15.36	match	match	match	match
+Selatosomus impressus	4	2	monophyletic		1.85	1.85	17.14	match	split	match	match
+Selatosomus melancholicus	3	3	monophyletic		12.36	11.44	15.36	split	split	split	split
+Sepedophilus littoreus	4	3	monophyletic		0.64		14.13	match	match	match	match
+Sepedophilus marshami	4	2	monophyletic		0.61		12.69	match	match	match	match
+Sepedophilus pedicularius	2	2	monophyletic		0.15		13.29	match	match	match	match
+Sepedophilus testaceus	1	1	monophyletic		N/A		12.69	match	match	match	match
+Serica brunnea	2	1	monophyletic		0.00		17.15	match	match	match	match
+Sericoderus lateralis	1	1	monophyletic		N/A		14.56	match	match	match	match
+Sericus brunneus	2	2	monophyletic		0.15		16.67	match	match	match	match
+Sibinia viscariae	2	1	monophyletic		0.00		15.13	match	match	match	match
+Silis ruficollis	3	1	monophyletic		0.00		14.95	match	match	match	match
+Silpha carinata	4	3	monophyletic		1.39		13.83	match	match	match	match
+Silpha tristis	2	1	monophyletic		0.00		9.96	match	match	match	match
+Silvanoprus fagi	2	2	monophyletic		0.15		18.45	match	match	match	match
+Silvanus bidentatus	2	1	monophyletic		0.00		18.45	match	match	match	match
+Sinodendron cylindricum	1	1	monophyletic		N/A		17.24	match	match	match	match
+Sirocalodes depressicollis	2	2	monophyletic		0.15		15.52	match	match	match	match
+Sitona ambiguus	1	1	monophyletic		N/A		12.93	match	match	match	match
+Sitona hispidulus	2	1	monophyletic		0.00		15.70	match	match	match	match
+Sitona lepidus	4	3	monophyletic		3.79	3.75	16.13	match	split	split	split
+Sitona lineellus	3	2	monophyletic		1.23		12.93	match	split	match	match
+Sitona sulcifrons	1	1	monophyletic		N/A		18.95	match	match	match	match
+Sitona suturalis	1	1	monophyletic		N/A		14.56	match	match	match	match
+Sitophilus oryzae	1	1	monophyletic		N/A		19.13	match	match	match	match
+Smaragdina affinis	2	2	monophyletic		0.15		9.68	match	match	match	match
+Smaragdina flavicollis	1	1	monophyletic		N/A		9.68	match	match	match	match
+Smaragdina salicina	4	2	monophyletic		1.54	1.54	10.53	match	split	match	match
+Smicrus filicornis	1	1	monophyletic		N/A		14.00	match	match	match	match
+Sospita vigintiguttata	1	1	monophyletic		N/A		9.95	match	match	match	match
+Spavius glaber	2	2	monophyletic		1.70	1.70	16.37	match	match	match	match
+Sphaeridium lunatum	3	1	monophyletic		0.00		6.85	match	match	match	match
+Sphaeridium scarabaeoides	1	1	monophyletic		N/A		6.85	match	match	match	match
+Sphaeriestes stockmanni	2	2	monophyletic		0.15		16.63	match	match	match	match
+Sphaeroderma testaceum	2	2	monophyletic		3.44	3.44	17.82	match	split	split	split
+Sphaerosoma pilosum	1	1	monophyletic		N/A		15.49	match	match	match	match
+Sphindus dubius	2	2	monophyletic		3.28	3.28	20.26	match	match	split	split
+Spondylis buprestoides	4	2	monophyletic		1.27		16.39	match	match	match	match
+Stagetus borealis	1	1	monophyletic		N/A		15.58	match	match	match	match
+Staphylinus caesareus	1	1	monophyletic		N/A		15.81	match	match	match	match
+Stenagostus rhombeus	1	1	monophyletic		N/A		16.33	match	match	match	match
+Stenichnus collaris	3	3	monophyletic		1.23		17.56	match	match	match	match
+Stenocorus meridianus	3	1	monophyletic		0.00		15.48	match	match	match	match
+Stenolophus mixtus	2	2	monophyletic		0.46		10.58	match	match	match	match
+Stenostola dubia	3	1	monophyletic		0.00		14.64	match	match	match	match
+Stenotrachelus aeneus	4	2	monophyletic		0.15		14.94	match	match	match	match
+Stenus argus	1	1	monophyletic		N/A		8.61	match	match	match	match
+Stenus assequens	1	1	monophyletic		N/A		15.19	match	match	match	match
+Stenus atratulus	2	2	monophyletic		0.30		14.39	match	match	match	match
+Stenus bifoveolatus	6	1	monophyletic		0.00		15.33	match	match	match	match
+Stenus biguttatus	3	1	monophyletic		0.00		14.61	match	match	match	match
+Stenus bilineatus	1	1	monophyletic		N/A		14.40	match	match	match	match
+Stenus bimaculatus	1	1	monophyletic		N/A		12.79	match	match	match	match
+Stenus binotatus	1	1	monophyletic		N/A		15.32	match	match	match	match
+Stenus bohemicus	3	1	monophyletic		0.00		7.58	match	match	match	match
+Stenus boops	2	2	monophyletic		0.30		10.09	match	match	match	match
+Stenus canaliculatus	3	3	monophyletic		0.46		16.47	match	match	match	match
+Stenus carbonarius	4	1	monophyletic		0.00		13.89	match	match	match	match
+Stenus cicindeloides	5	4	monophyletic		0.31		15.73	match	match	match	match
+Stenus clavicornis	5	4	monophyletic		0.93		10.80	match	match	match	match
+Stenus comma	3	2	monophyletic		0.77		14.57	match	match	match	match
+Stenus crassus	1	1	monophyletic		N/A		13.36	match	match	match	match
+Stenus excubitor	2	2	paraphyletic	Stenus morio	13.68	13.68	12.65	split	split	split	split
+Stenus flavipes	5	4	monophyletic		0.92		15.88	match	match	match	match
+Stenus formicetorum	2	2	paraphyletic	Stenus intermedius	1.38		0.46	merge	merge	merge	merge
+Stenus fuscipes	2	2	monophyletic		0.30		8.61	match	match	match	match
+Stenus geniculatus	5	2	monophyletic		0.15		10.26	match	match	match	match
+Stenus incrassatus	6	4	monophyletic		0.92		11.21	match	match	match	match
+Stenus intermedius	3	1	monophyletic		0.00		0.46	merge	merge	merge	merge
+Stenus juno	4	4	monophyletic		2.01	1.69	10.80	match	split	split	match
+Stenus labilis	1	1	monophyletic		N/A		13.03	match	match	match	match
+Stenus melanarius	2	2	monophyletic		1.23		10.09	match	match	match	match
+Stenus morio	1	1	monophyletic		N/A		12.65	match	match	match	match
+Stenus nigritulus	1	1	monophyletic		N/A		17.09	match	match	match	match
+Stenus nitens	7	7	monophyletic		2.17	1.69	13.03	match	match	split	split
+Stenus niveus	2	2	monophyletic		0.15		15.39	match	match	match	match
+Stenus palposus	2	1	monophyletic		0.00		12.94	match	match	match	match
+Stenus palustris	6	4	monophyletic		0.61		10.26	match	match	match	match
+Stenus similis	3	3	monophyletic		0.30		14.57	match	match	match	match
+Stenus strandi	5	4	monophyletic		0.46		10.43	match	match	match	match
+Stenus sylvester	1	1	monophyletic		N/A		12.79	match	match	match	match
+Stenus tarsalis	2	1	monophyletic		0.00		7.58	match	match	match	match
+Stenus umbratilis	4	1	monophyletic		0.00		16.86	match	match	match	match
+Stephanopachys linearis	2	2	monophyletic		0.15		22.38	match	match	match	match
+Stephostethus lardarius	4	4	monophyletic		1.29		15.91	match	match	match	match
+Stephostethus pandellei	2	1	monophyletic		0.00		13.92	match	match	match	match
+Stephostethus variolosus	4	4	monophyletic		1.45	1.23	13.92	match	match	match	match
+Stereonychus fraxini	1	1	monophyletic		N/A		17.25	match	match	match	match
+Stethorus pusillus	1	1	monophyletic		N/A		20.58	match	match	match	match
+Stictotarsus griseostriatus	4	1	monophyletic		0.00		14.13	match	match	match	match
+Stilbus atomarius	3	3	monophyletic		0.61		13.27	match	match	match	match
+Stilbus oblongus	2	2	monophyletic		0.46		13.27	match	match	match	match
+Stomis pumicatus	1	1	monophyletic		N/A		10.96	match	match	match	match
+Stricticollis tobias	2	1	monophyletic		0.00		14.03	match	match	match	match
+Strophosoma capitatum	8	4	monophyletic		2.64	2.48	17.03	split	split	match	match
+Strophosoma melanogrammum	2	1	monophyletic		0.00		17.03	match	match	match	match
+Sulcacis fronticornis	1	1	monophyletic		N/A		18.16	match	match	match	match
+Sulcacis nitidus	3	3	monophyletic		0.46		19.38	match	match	match	match
+Syneta betulae	2	2	monophyletic		0.15		17.89	match	match	match	match
+Syntomus foveatus	2	2	monophyletic		0.15		8.92	match	match	match	match
+Syntomus truncatellus	6	5	monophyletic		1.25		8.92	match	match	match	match
+Synuchus vivalis	2	1	monophyletic		0.00		12.55	match	match	match	match
+Tachinus basalis	1	1	monophyletic		N/A		12.57	match	match	match	match
+Tachinus corticinus	1	1	monophyletic		N/A		9.60	match	match	match	match
+Tachinus elegans	1	1	monophyletic		N/A		7.75	match	match	match	match
+Tachinus elongatus	3	1	monophyletic		0.00		11.49	match	match	match	match
+Tachinus laticollis	3	3	monophyletic		0.30		11.15	match	match	match	match
+Tachinus lignorum	6	2	monophyletic		0.15		9.40	match	match	match	match
+Tachinus marginatus	5	1	monophyletic		0.00		5.88	match	match	match	match
+Tachinus marginellus	6	2	monophyletic		0.15		9.40	match	match	match	match
+Tachinus pallipes	6	6	monophyletic		0.61		5.88	match	match	match	match
+Tachinus proximus	6	5	monophyletic		1.86	1.54	12.08	match	match	match	match
+Tachinus schneideri	1	1	monophyletic		N/A		14.44	match	match	match	match
+Tachyerges salicis	2	2	monophyletic		2.65	2.65	17.84	match	split	split	split
+Tachyerges stigma	3	2	monophyletic		0.30		17.46	match	match	match	match
+Tachyporus abdominalis	3	1	monophyletic		0.16		8.13	match	match	match	match
+Tachyporus chrysomelinus	5	4	monophyletic		7.29	6.39	6.65	split	split	split	split
+Tachyporus nitidulus	1	1	monophyletic		N/A		9.22	match	match	match	match
+Tachyporus obtusus	2	1	monophyletic		0.00		6.65	match	match	match	match
+Tachyporus pallidus	4	1	monophyletic		0.00		7.19	match	match	match	match
+Tachyporus pulchellus	5	4	monophyletic		4.59	4.42	8.69	match	split	split	split
+Tachyporus pusillus	5	2	monophyletic		0.15		6.36	match	match	match	match
+Tachyporus scitulus	5	4	monophyletic		1.12		6.36	match	match	match	match
+Tachyporus solutus	2	1	monophyletic		0.00		8.54	match	match	match	match
+Tachyporus sp.	1	1	monophyletic		N/A		6.35	match	match	match	match
+Tachyta nana	5	1	monophyletic		0.00		11.47	match	match	match	match
+Tachyura parvula	3	1	monophyletic		0.00		11.12	match	match	match	match
+Tanysphyrus lemnae	3	3	monophyletic		0.96		20.55	match	match	match	match
+Tapinotus sellatus	1	1	monophyletic		N/A		19.23	match	match	match	match
+Tasgius melanarius	3	2	monophyletic		0.30		15.01	match	match	match	match
+Telmatophilus schoenherrii	1	1	monophyletic		N/A		12.45	match	match	match	match
+Telmatophilus typhae	1	1	monophyletic		N/A		12.45	match	match	match	match
+Temnocerus nanus	5	2	monophyletic		0.32		12.44	match	match	match	match
+Temnocerus tomentosus	3	2	monophyletic		0.30		12.44	match	match	match	match
+Tenebrio molitor	2	1	monophyletic		0.00		19.05	match	match	match	match
+Tetartopeus quadratus	1	1	monophyletic		N/A		1.08	merge	merge	merge	merge
+Tetartopeus sphagnetorum	2	1	monophyletic		0.00		14.03	match	match	match	match
+Tetartopeus terminatus	6	4	monophyletic		0.46		1.08	merge	merge	merge	merge
+Tetartopeus zetterstedti	4	2	monophyletic		0.15		12.02	match	match	match	match
+Tetratoma fungorum	1	1	monophyletic		N/A		17.24	match	match	match	match
+Tetropium aquilonium	1	1	monophyletic		N/A		6.75	match	match	match	match
+Tetropium castaneum	5	4	polyphyletic	"Tetropium aquilonium,Tetropium fuscum"	6.30	5.94	6.75	split	split	split	split
+Tetropium fuscum	1	1	monophyletic		N/A		11.07	match	match	match	match
+Tetrops praeusta	3	3	monophyletic		13.22	12.65	13.07	split	split	split	split
+Tetrops starkii	2	2	monophyletic		0.76		14.06	match	match	match	match
+Thanasimus femoralis	1	1	monophyletic		N/A		12.03	match	match	match	match
+Thanasimus formicarius	5	4	monophyletic		2.81	2.28	12.03	match	split	split	match
+Thanatophilus dispar	3	2	monophyletic		0.15		12.48	match	match	match	match
+Thanatophilus lapponicus	2	2	monophyletic		0.31		11.69	match	match	match	match
+Thanatophilus rugosus	3	2	monophyletic		0.16		12.48	match	match	match	match
+Thanatophilus sinuatus	1	1	monophyletic		N/A		11.69	match	match	match	match
+Thecturota marchii	1	1	monophyletic		N/A		12.79	match	match	match	match
+Thinobius ciliatus	2	2	monophyletic		0.30		17.22	match	match	match	match
+Thinonoma atra	3	2	monophyletic		0.15		14.47	match	match	match	match
+Thryogenes festucae	3	2	monophyletic		0.15		19.47	match	match	match	match
+Thymalus aubei	1	1	monophyletic		N/A		17.48	match	match	match	match
+Tinotus morion	1	1	monophyletic		N/A		11.65	match	match	match	match
+Tomicus piniperda	2	2	monophyletic		0.46		18.43	match	match	match	match
+Tomoxia bucephala	3	2	monophyletic		2.94	2.80	23.04	match	split	match	split
+Trachodes hispidus	4	3	monophyletic		3.46	2.97	18.80	match	split	split	split
+Trachyphloeus bifoveolatus	2	1	monophyletic		0.00		16.88	match	match	match	match
+Trachyphloeus rectus	2	1	monophyletic		0.00		16.88	match	match	match	match
+Trachys minutus	3	3	monophyletic		1.54	1.54	21.21	match	match	match	match
+Trechus quadristriatus	5	3	monophyletic		0.30		11.91	match	match	match	match
+Trechus rubens	3	1	monophyletic		0.00		10.10	match	match	match	match
+Trechus secalis	2	2	monophyletic		0.17		10.10	match	match	match	match
+Tribolium confusum	6	2	monophyletic		0.18		14.14	match	match	match	match
+Trichius fasciatus	2	2	monophyletic		1.02		15.12	match	match	match	match
+Trichophya pilicornis	1	1	monophyletic		N/A		12.05	match	match	match	match
+Trichosirocalus troglodytes	3	3	monophyletic		1.70	1.69	16.85	match	match	match	match
+Trimium brevicorne	1	1	monophyletic		N/A		21.50	match	match	match	match
+Triplax aenea	2	1	monophyletic		0.00		16.33	match	match	match	match
+Triplax rufipes	2	2	monophyletic		0.30		17.40	match	match	match	match
+Triplax russica	4	2	monophyletic		0.30		16.33	match	match	match	match
+Tritoma bipustulata	2	2	monophyletic		0.30		19.64	match	match	match	match
+Trixagus carinifrons	1	1	monophyletic		N/A		19.31	match	match	match	match
+Trixagus dermestoides	5	3	monophyletic		0.30		19.31	match	match	match	match
+Tropideres dorsalis	1	1	monophyletic		N/A		19.04	match	match	match	match
+Tropiphorus elevatus	1	1	monophyletic		N/A		20.33	match	match	match	match
+Trox sabulosus	3	2	monophyletic		0.15		16.58	match	match	match	match
+Trypodendron domesticum	2	2	monophyletic		0.15		11.34	match	match	match	match
+Trypodendron signatum	1	1	monophyletic		N/A		11.34	match	match	match	match
+Trypophloeus bispinulus	2	2	monophyletic		13.17	13.17	21.14	split	split	split	split
+Tychius breviusculus	3	2	monophyletic		0.16		16.29	match	match	match	match
+Tychius junceus	1	1	monophyletic		N/A		17.03	match	match	match	match
+Tychius picirostris	5	3	monophyletic		1.11		16.81	match	match	match	match
+Tychius schneideri	1	1	monophyletic		N/A		16.29	match	match	match	match
+Typhaea decipiens	1	1	monophyletic		N/A		6.70	match	match	match	match
+Typhaea stercorea	2	1	monophyletic		0.00		6.70	match	match	match	match
+Tyrus mucronatus	1	1	monophyletic		N/A		14.17	match	match	match	match
+Tytthaspis sedecimpunctata	2	1	monophyletic		0.00		14.07	match	match	match	match
+Upis ceramboides	1	1	monophyletic		N/A		15.53	match	match	match	match
+Velleius dilatatus	1	1	monophyletic		N/A		12.96	match	match	match	match
+Xantholinus linearis	3	3	monophyletic		0.30		13.10	match	match	match	match
+Xantholinus tricolor	3	1	monophyletic		0.00		13.66	match	match	match	match
+Xyleborus cryptographus	1	1	monophyletic		N/A		18.81	match	match	match	match
+Xyletinus planicollis	1	1	monophyletic		N/A		15.99	match	match	match	match
+Xylita laevigata	3	3	monophyletic		0.46		17.91	match	match	match	match
+Xylotrechus antilope	1	1	monophyletic		N/A		17.52	match	match	match	match
+Xylotrechus pantherinus	2	2	monophyletic		0.30		5.75	match	match	match	match
+Xylotrechus rusticus	4	3	monophyletic		0.30		5.75	match	match	match	match
+Zacladus geranii	3	3	monophyletic		2.33	1.54	18.42	match	split	match	match
+Zeugophora scutellaris	1	1	monophyletic		N/A		9.42	match	match	match	match
+Zeugophora subspinosa	3	3	monophyletic		1.23		9.42	match	match	match	match
+Zorochros minimus	4	3	monophyletic		0.78		17.42	match	match	match	match
+Zyras humeralis	2	2	monophyletic		0.61		12.42	match	match	match	match
