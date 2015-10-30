@@ -1,6 +1,6 @@
 # Supplementary data
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.32900.svg)](http://dx.doi.org/10.5281/zenodo.32900)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.32944.svg)](http://dx.doi.org/10.5281/zenodo.32944)
 
 This repository holds the supplementary data for the manuscript:
 
