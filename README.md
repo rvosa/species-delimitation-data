@@ -41,13 +41,13 @@ Contents:
   - [Tachyporinae-Aleocharinae](data/GMYC/Tachyporinae-Aleocharinae_maxCladeCred.nex)
 - **Maximum likelihood trees** - Input for PTP species delimitation, in 
   [Newick](http://evolution.genetics.washington.edu/phylip/newicktree.html) format:
-  - [Adephaga-Staphyliniformia-loput](data/PTP/Adephaga-Staphyliniformia-loput_RAxML_bestTree.dnd)
+  - [Adephaga-Staphyliniformia (remaining)](data/PTP/Adephaga-Staphyliniformia-remaining_RAxML_bestTree.dnd)
   - [Carabidae](data/PTP/Carabidae_RAxML_bestTree.dnd)
   - [Chrysomelidae](data/PTP/Chrysomelidae_RAxML_bestTree.dnd)
-  - [Coleoptera-loput](data/PTP/Coleoptera-loput_RAxML_bestTree.dnd)
+  - [Coleoptera (remaining)](data/PTP/Coleoptera-remaining_RAxML_bestTree.dnd)
   - [Curculionoidea](data/PTP/Curculionoidea_RAxML_bestTree.dnd)
   - [Dytiscidae](data/PTP/Dytiscidae_RAxML_bestTree.dnd)
-  - [Staphylinidae-loput](data/PTP/Staphylinidae-loput_RAxML_bestTree.dnd)
+  - [Staphylinidae (remaining)](data/PTP/Staphylinidae-remaining_RAxML_bestTree.dnd)
   - [Tachyporinae-Aleocharinae](data/PTP/Tachyporinae-Aleocharinae_RAxML_bestTree.dnd)
 
 ------------------------------------------------------------------------------------------
