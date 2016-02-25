@@ -2654,7 +2654,7 @@ ZMUO.004165	Haliplidae	Haliplus ruficollis	KJ961788	658[0n]	Estonia	58.272	26.39
 ZMUO.003920	Haliplidae	Haliplus ruficollis	KJ965298	658[0n]	Finland	60.014	20.961
 ZMUO.003921	Haliplidae	Haliplus ruficollis	KJ967510	658[0n]	Finland	60.014	20.961
 ZMUO.005795	Haliplidae	Haliplus sibiricus	KJ964840	658[0n]	Finland	66.291	29.630
-ZMUO.006594	Haliplidae	Haliplus sp.	KJ963535	658[0n]	Finland	66.288	29.646
+ZMUO.006594	Haliplidae	Haliplus sibiricus	KJ963535	658[0n]	Finland	66.288	29.646
 ZMUO.003783	Tetratomidae	Hallomenus axillaris	KJ963661	658[0n]	Finland	59.977	20.188
 ZMUO.000561	Tetratomidae	Hallomenus axillaris	KJ967002	658[0n]	Finland	60.361	19.916
 ZMUO.004516	Staphylinidae	Halobrecta puncticeps	KJ964253	658[0n]	Finland	59.825	23.010
@@ -3268,8 +3268,8 @@ ZMUO.003250	Staphylinidae	Lordithon thoracicus	KJ964963	658[0n]	Finland	68.454	2
 ZMUO.001067	Staphylinidae	Lordithon thoracicus	KJ963882	658[0n]	Finland	60.097	19.939
 ZMUO.002477	Staphylinidae	Lordithon thoracicus	KJ964146	658[0n]	Finland	68.421	27.440
 ZMUO.003732	Staphylinidae	Lordithon thoracicus	KJ965403	658[0n]	Finland	66.291	29.630
-ZMUO.000643	Staphylinidae	Lordithon trinotatus	KJ962878	658[0n]	Finland	65.116	25.829
-ZMUO.000664	Staphylinidae	Lordithon trinotatus	KJ963074	658[0n]	Finland	65.116	25.829
+ZMUO.000643	Staphylinidae	Lordithon bimaculatus	KJ962878	658[0n]	Finland	65.116	25.829
+ZMUO.000664	Staphylinidae	Lordithon bimaculatus	KJ963074	658[0n]	Finland	65.116	25.829
 ZMUO.006820	Carabidae	Loricera pilicornis	KJ962979	658[0n]	Finland	59.957	23.067
 ZMUO.001358	Carabidae	Loricera pilicornis	KJ966135	658[0n]	Finland	65.037	24.564
 ZMUO.005074	Carabidae	Loricera pilicornis	KJ966683	658[0n]	Finland	60.216	19.774
@@ -3456,7 +3456,7 @@ ZMUO.003984	Ripiphoridae	Metoecus paradoxus	KJ962554	658[0n]	Finland	63.132	21.5
 ZMUO.003985	Ripiphoridae	Metoecus paradoxus	KJ963105	658[0n]	Finland	63.132	21.544
 ZMUO.005428	Curculionidae	Miarus campanulae	KJ964641	658[0n]	Finland	61.475	27.382
 ZMUO.005528	Curculionidae	Miarus campanulae	KJ963838	629[0n]	Sweden	57.127	16.481
-ZMUO.000525	Curculionidae	Miarus sp.	KJ963187	658[0n]	Finland	65.116	25.829
+ZMUO.000525	Curculionidae	Miarus campanulae	KJ963187	658[0n]	Finland	65.116	25.829
 ZMUO.002436	Cryptophagidae	Micrambe abietis	KJ966864	658[0n]	Finland	65.063	25.471
 MP00179	Cryptophagidae	Micrambe bimaculata	HM909059	658[0n]	Finland	65.037	24.564
 ZMUO.006164	Scirtidae	Microcara testacea	KJ963417	658[0n]	Finland	60.003	20.157
@@ -3502,11 +3502,11 @@ ZMUO.005525	Mordellidae	Mordella aculeata	KJ963194	632[0n]	Sweden	57.127	16.481
 ZMUO.005320	Mordellidae	Mordella holomelaena	KJ965245	658[0n]	Finland	60.184	24.692
 ZMUO.005904	Mordellidae	Mordella holomelaena	KJ963456	658[0n]	Finland	64.949	25.414
 ZMUO.005167	Mordellidae	Mordellistena humeralis	KJ963672	621[0n]	Finland	60.116	24.635
-ZMUO.005939	Mordellidae	Mordellistena sp.	KJ966997	658[0n]	Finland	60.314	24.258
-ZMUO.007262	Mordellidae	Mordellistena sp.	KJ962538	639[0n]	Finland	61.078	28.516
-ZMUO.007263	Mordellidae	Mordellistena sp.	KJ965757	658[0n]	Finland	61.078	28.516
-ZMUO.006484	Mordellidae	Mordellistena sp.	KJ964430	658[0n]	Finland	61.204	26.050
-ZMUO.005963	Mordellidae	Mordellistena sp.	KJ965378	658[0n]	Sweden	56.938	16.406
+ZMUO.005939	Mordellidae	Mordellistena sp.2	KJ966997	658[0n]	Finland	60.314	24.258
+ZMUO.007262	Mordellidae	Mordellistena sp.3	KJ962538	639[0n]	Finland	61.078	28.516
+ZMUO.007263	Mordellidae	Mordellistena sp.1	KJ965757	658[0n]	Finland	61.078	28.516
+ZMUO.006484	Mordellidae	Mordellistena sp.1	KJ964430	658[0n]	Finland	61.204	26.050
+ZMUO.005963	Mordellidae	Mordellistena sp.4	KJ965378	658[0n]	Sweden	56.938	16.406
 ZMUO.003304	Mordellidae	Mordellochroa abdominalis	KJ962104	573[0n]	Estonia	58.278	27.328
 ZMUO.007585	Mordellidae	Mordellochroa abdominalis	KJ965600	658[0n]	Finland	60.005	20.154
 ZMUO.004940	Mordellidae	Mordellochroa abdominalis	KJ962602	592[1n]	Finland	60.162	24.697
@@ -5060,7 +5060,7 @@ ZMUO.005198	Staphylinidae	Tachinus proximus	KJ967331	613[0n]	Finland	60.136	24.7
 ZMUO.006750	Staphylinidae	Tachinus schneideri	KJ966442	658[0n]	Finland	61.510	29.577
 ZMUO.003164	Curculionidae	Tachyerges salicis	KJ962843	658[0n]	Finland	65.901	24.471
 ZMUO.006874	Curculionidae	Tachyerges salicis	KJ965658	658[0n]	Finland	65.901	24.471
-ZMUO.001981	Curculionidae	Tachyerges sp.	KJ965780	658[0n]	Finland	65.683	24.582
+ZMUO.001981	Curculionidae	Tachyerges stigma	KJ965780	658[0n]	Finland	65.683	24.582
 ZMUO.005943	Curculionidae	Tachyerges stigma	KJ962461	658[0n]	Finland	60.314	24.258
 ZMUO.006616	Curculionidae	Tachyerges stigma	KJ961997	658[0n]	Finland	66.288	29.646
 ZMUO.001692	Staphylinidae	Tachyporus abdominalis	KJ962697	506[2n]	Finland	65.033	25.418
